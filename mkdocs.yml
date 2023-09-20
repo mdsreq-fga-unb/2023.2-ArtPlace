@@ -2,4 +2,4 @@ site_name: My Docs
 site_url: https://mdsreq-fga-unb.github.io/2023.2-ArtPalce/
 
 nav:
-  página inicial: docs/index.md
+  - página inicial: index.md
