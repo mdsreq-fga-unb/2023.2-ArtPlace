@@ -9,3 +9,5 @@ nav:
   - processo de desenvolvimento: processo.md
   - licões aprendidas: licoes.md
 
+markdown_extensions:
+  - tables
