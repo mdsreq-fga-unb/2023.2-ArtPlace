@@ -120,17 +120,10 @@ Tendo em vista essas definições, o processo de engenharia de requisitos escolh
 # Tabela de atividades
 
 | Nome da atividade| Método | Ferramenta | Entrega |
-
-|:------------:|:-----------:|:------------:|:-----------:|
-
+|------------|-----------|------------|-----------|
 | Elicitação e descoberta | Brainstorming | Teams | Bate papo entre a equipe e o cliente para definir as informações |
-
 | Análise e consenso | Brainstorming | Teams | Bate papo da equipe como cliente para realizar sugestões e entrar em um consenso dos requisitos |
-
 | Declaração | Épicos, features,Histórias de usuário | Googles docs, Git pages,miro | Listar de forma clara os requisitos definidos |
-
 | Organização e atualização | Backlog,Historia de usuario | Git pages, miro | Acompanhamento e organização dos requisitos |
-
 | Representação | Prototipagem | Figma,miro,paint | Apresentação de uma simulação dos requisitos de forma visual |
-
 | Verificação e validação | Checklist,Feedback,e análise dos requisitos | Miro,google docs | Lista de requisitos alinhada com os objetivos do produto |

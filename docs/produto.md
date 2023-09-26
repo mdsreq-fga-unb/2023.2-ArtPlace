@@ -14,8 +14,9 @@ O ArtPlace será desenvolvido para o cliente tendo em vista a falta de exclusivi
 
 A cliente é uma artesã que atualmente encontra dificuldades em divulgar e vender seu trabalho e deseja um site para que ela e outros artesãos que se interessarem pela proposta possam exibir, vender e interagir, sendo os usuários-alvo dessa solução os possíveis clientes que desejam adquirir as peças artesanais e os artistas que também desejarem expor seus trabalhos e produtos.
 
-tabela
 
+|   Tabela    |                                                      |
+|--------------------|---------------------------------------------------------------|
 | Para | Artistas, artesãos e amantes de arte   | 
 | Quem |Necessita de auxílio para divulgar o seu trabalho       | 
 | O ArtPlace | É um site de compra e venda de artes e artesanatos     |  
