@@ -9,7 +9,9 @@ O objetivo primordial dos Berserk era cristalino: destruir o Conglomerado Apache
 
 ### História dos membros 
 
-#### Fause
+#### Fause - Marsicano Jr
+
+Marsicano Jr, o filho perdido do comandante estelar, tudo começou quando seu planeta natal entrou em guerra e foi forçado a viajar em uma cápsula de resgate em uma tentativa de ser salvo por sua família. Após aterrissar em outro planeta uma família local resolveu lhe adotar, dessa forma passou ali grande parte da sua vida em harmonia, até que novamente outra grande guerra eclodiu , indignado, Marsicano Jr saiu pela galáxia em busca de sua família biologia e com sede de vingança contra aqueles que tanto o fizeram sofrer 
 
 #### Guilherme - Eclipse
 
