@@ -1,13 +1,31 @@
-site_name: My Docs
+site_name: ArtPlace
+site_author: Berserk
+site_description: >-
+  Git pages voltado para documentar o projeto ArtPlace da disciplina de
+  Requisitos de Software na Universidade de Brasília
+
 site_url: https://mdsreq-fga-unb.github.io/2023.2-ArtPalce/
 
 nav:
-  - página inicial: index.md
-  - história: historia.md
-  - visão geral do produto: produto.md
-  - visão geral do projeto: projrto.md
-  - processo de desenvolvimento: processo.md
-  - licões aprendidas: licoes.md
+  - Página Inicial: index.md
+  - História: historia.md
+  - Visão geral do produto: produto.md
+  - Visão geral do projeto: projrto.md
+  - Processo de desenvolvimento: processo.md
+  - Lições aprendidas: licoes.md
 
 markdown_extensions:
-  - tables
+  - pymdownx.emoji
+  - pymdownx.tasklist
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
