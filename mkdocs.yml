@@ -15,6 +15,7 @@ nav:
   - Lições aprendidas: licoes.md
 
 markdown_extensions:
+  - tables
   - pymdownx.emoji
   - pymdownx.tasklist
   - pymdownx.mark
