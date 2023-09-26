@@ -3,3 +3,6 @@ site_url: https://mdsreq-fga-unb.github.io/2023.2-ArtPalce/
 
 nav:
   - página inicial: index.md
+  - história: historia.md
+  - licões aprendidas: licoes.md
+  
