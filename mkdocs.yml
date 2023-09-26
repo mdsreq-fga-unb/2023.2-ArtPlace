@@ -4,5 +4,7 @@ site_url: https://mdsreq-fga-unb.github.io/2023.2-ArtPalce/
 nav:
   - página inicial: index.md
   - história: historia.md
+  - visão geral do produto: produto.md
+  - visão geral do projeto: projrto.md
   - licões aprendidas: licoes.md
-  
+
