@@ -19,5 +19,4 @@ jobs:
           path: .cache
       - run: pip install mkdocs-material
       - run: mkdocs build
-      - run: mkdocs serve
       - run: mkdocs gh-deploy --force
