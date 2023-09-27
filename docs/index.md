@@ -6,6 +6,10 @@ O projeto Artplace está sendo desenvolvido pelo grupo "Berserk" na disciplina d
 ## Apresentação
  video da nossa apresentação está [Aqui](https://unbbr.sharepoint.com/sites/teamsdosmercenrios/_layouts/15/stream.aspx?id=%2Fsites%2Fteamsdosmercenrios%2FDocumentos%20Compartilhados%2FGeneral%2FRecordings%2FNova%20reunião%20do%20canal-20230926_220954-Gravação%20de%20Reunião%2Emp4).
 
+## materiais
+
+Para entender nossas escolhas de abordagens, ciclo de vida, processo e fecetas da engenharia de requisitos clique [Aqui](https://www.canva.com/design/DAFvevC6f3Q/ASfVgNZw5fJUGiSlEAoCIQ/edit?referrer=powerpoint-alternative-landing-page).
+
 ## Integrantes
 
 | foto | nome | GitHub |
