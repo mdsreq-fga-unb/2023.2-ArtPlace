@@ -1,5 +1,4 @@
 <h1 align="center"> ArtPlace</h1>
-Documentação do projeto : https://mdsreq-fga-unb.github.io/2023.2-ArtPalce/
 
 ## 💡 Sobre
 ArtPlace é um projeto criado para a disciplina Requisitos de Software da universidade de Brasilia (UNB)
