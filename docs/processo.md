@@ -127,3 +127,7 @@ Tendo em vista essas definições, o processo de engenharia de requisitos escolh
 | Organização e atualização | Backlog,Historia de usuario | Git pages, miro | Acompanhamento e organização dos requisitos |
 | Representação | Prototipagem | Figma,miro,paint | Apresentação de uma simulação dos requisitos de forma visual |
 | Verificação e validação | Checklist,Feedback,e análise dos requisitos | Miro,google docs | Lista de requisitos alinhada com os objetivos do produto |
+
+## materiais
+
+Para entender nossas esclhas de abordagens, ciclo de vida, processo e fecetas da engenharia de requisitos clique [Aqui](https://www.canva.com/design/DAFvevC6f3Q/ASfVgNZw5fJUGiSlEAoCIQ/edit?referrer=powerpoint-alternative-landing-page).
