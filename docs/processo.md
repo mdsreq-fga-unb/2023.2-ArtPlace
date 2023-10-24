@@ -12,7 +12,7 @@ por Sommerville (2018), respondendo a uma série de perguntas de três naturezas
 
 A seguir, serão discriminadas e respondidas essas perguntas de acordo com as especificidades do projeto.
 
-![Image title](assets/Abordagem.jpeg)
+![Image title](assets/AbordagemFinal.jpeg)
 
 ### Questões TÉCNICAS:
 
@@ -72,11 +72,12 @@ Baseado nessas respostas, a abordagem definida é a ágil. E visando a entrega d
 
 Para definir o processo para o desenvolvimento do software foi utilizado os critérios propostos por Gupta respondendo sobre as características dos requisitos, equipe, usuário e riscos do projeto nas tabelas propostas:
 
-![Image title](assets/gupta1.jpeg)
+![Image title](assets/gupta1Final.jpeg)
 
-![Image title](assets/gupta2.jpeg)
+![Image title](assets/gupta2Final.jpeg)
 
-![Image title](assets/gupta3.jpeg)
+![Image title](assets/gupta3Final.jpeg)
+
 
 Após a análise do método e também tendo em vista as definições da abordagem e do ciclo de vida, o processo definido para o projeto foi o RAD (Rappid aplication development). Favorecendo o feedback rápido do cliente, e centrando o desenvolvimento no usuário e no design de produto.
 
@@ -86,7 +87,7 @@ A engenharia de requisitos de acordo com a ISO-IEC-IEEE 29148 consiste em uma á
 
 De acordo com George Marsicano(2023) a engenharia de requisitos pode ser dividida em algumas atividades:
 
-![Image title](assets/engReq.jpeg)
+![Image title](assets/engReqFinal.jpeg)
 
 -  **Elicitação e descoberta:** Consiste em extrair, obter ou provocar uma resposta ou informação de alguém ou de algo, e encontrar algo que antes não era conhecido ou não estava disponível.
 
@@ -103,7 +104,7 @@ De acordo com George Marsicano(2023) a engenharia de requisitos pode ser dividid
 
 Dada esses conceitos é necessário definir o processo de engenharia de requisitos que mais se encaixa no nosso projeto, e para isso foi utilizado o método proposto pelo Handbook IREB CPRE foundation Level, Requirements Engineering de Martin Glinz (2019), no qual define as configurações típicas do processo de engenharia de requisitos baseando-se na definição de facetas específicas de alvo, propósito e tempo do projeto.
 
-![Image title](assets/facetas.jpeg)
+![Image title](assets/facetasFinal.jpeg)
 
 Para nosso projeto ficaram definidos:
 
@@ -120,13 +121,13 @@ Tendo em vista essas definições, o processo de engenharia de requisitos escolh
 # Tabela de atividades
 
 | Nome da atividade| Método | Ferramenta | Entrega |
-|------------|-----------|------------|-----------|
-| Elicitação e descoberta | Brainstorming | Teams | Bate papo entre a equipe e o cliente para definir as informações |
-| Análise e consenso | Brainstorming | Teams | Bate papo da equipe como cliente para realizar sugestões e entrar em um consenso dos requisitos |
+|:------------:|:-----------:|:------------:|:-----------:|
+| Elicitação e descoberta | Brainstorming, análise de concorrentes e entrevistas| Teams, Discord, Miro| Documento inicial de requisitos |
+| Análise e consenso | Brainstorming, casos de uso, análise de concorrentes e negociação com o cliente | Teams, Discord, Miro | Documento de requisitos funcionais e não funcionais validados pelo cliente e casos de uso|
 | Declaração | Épicos, features,Histórias de usuário | Googles docs, Git pages,miro | Listar de forma clara os requisitos definidos |
-| Organização e atualização | Backlog,Historia de usuario | Git pages, miro | Acompanhamento e organização dos requisitos |
-| Representação | Prototipagem | Figma,miro,paint | Apresentação de uma simulação dos requisitos de forma visual |
-| Verificação e validação | Checklist,Feedback,e análise dos requisitos | Miro,google docs | Lista de requisitos alinhada com os objetivos do produto |
+| Organização e atualização | DEEP, pontos por histórias | Git pages, miro | Backlog do produto|
+| Representação | Prototipagem | Figma,miro,paint | Protótipos preliminares do site |
+| Verificação e validação | Checklist,Feedback, INVEST e avaliação em pares | Miro,google docs, Discord, Teams | Documento de feedback do cliente e Documentação das análises |
 
 ## materiais
 
