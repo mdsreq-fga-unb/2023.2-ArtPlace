@@ -33,12 +33,12 @@
 
 ## 2.3         Matriz de Comunicação
 
-| Descrição                                   | Área/Envolvidos              | Periodicidade | Produtos Gerados                                        |
+| Descrição                                   | Área/Envolvidos              | Periodicidade | Resultados Gerados                                        |
 |---------------------------------------------|------------------------------|---------------|--------------------------------------------------------|
-| Planejamento das atividades a serem desenvolvidas | Equipe do Projeto       | Semanal       | - Ata de reunião, Tarefas que deverão ser desenvolvidas por cada membro ao longo da semana |
-| Retrospectiva da sprint                        | Equipe do Projeto       | Semanal       | - Análise da execução da sprint passada observando problemas e oportunidades de melhorias para as próximas sprints |
-| Acompanhamento de tarefas                     | Equipe do Projeto       | Diária        | - Descrição do decorrer das atividades                 |
-| Reunião com o cliente                        | Equipe do Projeto, Cliente | Semanal       | - Validação funcionalidades desenvolvidas e obtenção do feedback |
+| Planejamento das atividades a serem desenvolvidas | Equipe do Projeto       | Semanal       | - Ata de reunião, Relato por parte de cada membro sobre o andamento individual ao longo da semana |
+| Retrospectiva da sprint                        | Equipe do Projeto       | Semanal       | - Relatório da sprint passada levando em conta as melhorias e problemas encontrados para as próximas sprints |
+| Acompanhamento de tarefas                     | Equipe do Projeto       | Diária        | - Relatório do desenvolvimento das atividades                 |
+| Reunião com o cliente                        | Equipe do Projeto, Cliente | Semanal       | -  Relatório considerando a validação de funcionalidades desenvolvidas e obtenção do feedback |
 | Acompanhamento da situação do projeto         | Equipe do Projeto       |     Pontos de controle          | - Feedback da situação do projeto
 
 
