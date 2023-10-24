@@ -15,18 +15,18 @@ O ArtPlace será desenvolvido para a cliente,Cristiane Gonçalves Cabeceira de F
 A cliente é uma artesã que atualmente encontra dificuldades em divulgar e vender seu trabalho. Ela deseja um site para que ela e outros artesãos que se interessarem pela proposta possam exibir, vender e interagir. Os usuários-alvo dessa solução são os possíveis clientes que desejam adquirir as peças artesanais e os artistas que também desejam expor seus trabalhos e produtos.
 
 
-|   Tabela    |                                                      |
+| Tabela | |
 |--------------------|---------------------------------------------------------------|
-| Para | Artistas, artesãos e amantes de arte   | 
-| Quem |Necessita de auxílio para divulgar o seu trabalho       | 
-| O ArtPlace | É um site de compra e venda de artes e artesanatos     |  
-| Que | Junta os trabalhos em um só lugar, com um custo acessível |   
-| Ao contrário | De outros e-commerces que são muito caros e não são exclusivamente voltados para o trabalho de artistas e artesãos.     | 
-| Nosso produto |Traz visibilidade, alcance e comunicação em um só lugar    | 
+| Para | Artistas, artesãos e amantes de arte | 
+| Quem |Deseja comprar e vender produtos de artesanato em apenas um site | 
+| O ArtPlace | É um site de compra e venda de artes e artesanatos | 
+| Que | Auxilia o comércio de produtos artesanais | 
+| Ao contrário | De outros e-commerces, como a Amazon e o eBay, que não são exclusivamente voltados para o trabalho de artistas e artesãos, desde profissionais até amadores. | 
+| Nosso produto |Traz visibilidade, alcance e comunicação em um só lugar | 
 
 ## 1.3 Objetivos do Produto
 
-O objetivo primário deste produto é solucionar a falta de visibilidade e exclusividade para pequenos artistas nas atuais plataformas de vendas. Ele proporcionará um espaço para que a cliente e outros artistas interessados possam exibir seus produtos e serviços. O objetivo secundário é criar uma comunidade, uma vez que existirão espaços para conversa e interação, tanto entre os artistas como entre os clientes, de forma a fornecer feedbacks e novas ideias, ou seja, criando uma comunidade de amantes e produtores da arte.
+O objetivo primário deste produto é auxiliar na venda de produtos de pequenos artistas que enfrentam a falta de visibilidade nas atuais plataformas de vendas. Assim, proporcionando um espaço exclusivo para que a cliente e outros artistas interessados possam comercializar e exibir seus produtos e serviços. O objetivo secundário é criar uma comunidade, uma vez que existirão espaços para conversa e interação, tanto entre os artistas como entre os clientes, de forma a fornecer feedbacks e novas ideias, ou seja, criando uma comunidade de amantes e produtores da arte.
 
 ## 1.4 Tecnologias a Serem Utilizadas
 
