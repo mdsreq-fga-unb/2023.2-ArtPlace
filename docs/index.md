@@ -4,7 +4,7 @@
 O projeto Artplace está sendo desenvolvido pelo grupo "Berserk" na disciplina de Requisitos de Software da Universidade de Brasília no 2º semestre de 2023 para solucionar o problema de pequenos artistas na falta de visibilidade e exclusividade nas plataformas atuais. Assim criando um espaço para facilitar a interação entre cliente e os artistas.
 
 ## Apresentação
- video da nossa apresentação está [Aqui](https://unbbr.sharepoint.com/sites/teamsdosmercenrios/_layouts/15/stream.aspx?id=%2Fsites%2Fteamsdosmercenrios%2FDocumentos%20Compartilhados%2FGeneral%2FRecordings%2FNova%20reunião%20do%20canal-20230926_220954-Gravação%20de%20Reunião%2Emp4).
+ video da nossa apresentação está [Aqui](https://unbbr.sharepoint.com/:v:/s/teamsdosmercenrios/EbN1WopWAZBDme8TDq0js_kBjqZtwB4PrkZzP5dM7bXRMw).
 
 ## Materiais
 
