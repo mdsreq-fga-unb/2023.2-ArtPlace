@@ -89,6 +89,9 @@ De acordo com George Marsicano(2023) a engenharia de requisitos pode ser dividid
 
 ![Image title](assets/engReqFinal.jpeg)
 
+<font size="3"><p style="text-align: center">Fonte: Material de aula de George Marsicano(2023) </p></font>
+
+
 -  **Elicitação e descoberta:** Consiste em extrair, obter ou provocar uma resposta ou informação de alguém ou de algo, e encontrar algo que antes não era conhecido ou não estava disponível.
 
 -  **Análise e consenso:** Consiste em analisar os requisitos em sua forma bruta e conciliar as diversas fontes de informação a um entendimento comum na definição do conjunto de requisitos.
@@ -105,6 +108,11 @@ De acordo com George Marsicano(2023) a engenharia de requisitos pode ser dividid
 Dada esses conceitos é necessário definir o processo de engenharia de requisitos que mais se encaixa no nosso projeto, e para isso foi utilizado o método proposto pelo Handbook IREB CPRE foundation Level, Requirements Engineering de Martin Glinz (2019), no qual define as configurações típicas do processo de engenharia de requisitos baseando-se na definição de facetas específicas de alvo, propósito e tempo do projeto.
 
 ![Image title](assets/facetasFinal.jpeg)
+
+
+<font size="3"><p style="text-align: center">Fonte: Handbook IREB CPRE Foundation Level, Version 1.1.0,
+september 2022</p></font>
+
 
 Para nosso projeto ficaram definidos:
 
