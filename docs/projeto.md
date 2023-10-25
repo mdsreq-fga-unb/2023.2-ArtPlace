@@ -65,8 +65,19 @@
  
 ## 2.5         Critérios de Replanejamento
 
-•	Alta Complexidade do projeto
-	Ao iniciar o projeto e a equipe perceber que a definição do escopo e a complexidade de execução do projeto possui uma complexidade maior do que o previsto, dessa forma sendo necessário realizar uma avaliação  e definir um novo cronograma além dos novos recursos necessários 
-•	 Insatisfação do cliente
+
+•	Alta Complexidade do projeto:
+
+Ao iniciar o projeto e a equipe perceber que a definição do escopo e a complexidade de execução do projeto possui uma complexidade maior do que o previsto, dessa forma sendo necessário realizar uma avaliação  e definir um novo cronograma além dos novos recursos necessários 
+
+•	 Insatisfação do cliente:
+
 Caso o andamento do projeto não esteja de acordo com as expectativas do cliente é de suma necessidade realizar uma replanejamento, entender o que está causando estas insatisfações para dessa forma o produto entregue atenda o desejo do cliente 
-•	Novos riscos que não foram previstos: Durante a execução do projeto é possível que se identifique novos riscos que não foram pensados na fase de planejamento. Para isso deverá ser necessário que a equipe esteja unida e preparada para identificar esses riscos e definir um plano a fim de amenizá-los.
+
+•	Novos riscos que não foram previstos:
+
+Durante a execução do projeto é possível que se identifique novos riscos que não foram pensados na fase de planejamento. Para isso deverá ser necessário que a equipe esteja unida e preparada para identificar esses riscos e definir um plano a fim de amenizá-los.
+
+•	Ocorrência de riscos previstos:
+
+Caso algum risco planejado seja consolidado, desde o abandono de membros da equipe até sobrecarga de trabalho, pode ser que seja necessário elaborar um replanejamento para encaixar as atividades que devem ser realizadas em um novo escopo de tempo e esforço, e assim o produto final seja o menos afetado possível. 
