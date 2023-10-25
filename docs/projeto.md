@@ -7,7 +7,8 @@
 | Desenvolvedor            | Codificar o produto, codificar testes unitários, realizar refatoração | Guilherme                            | 
 | Dono do Produto          | Atualizar o escopo do produto, organizar o escopo das sprints, validar as entregas | Cristeane Gonsalves Cabeceira e George Marsicano                              | 
 | Analista de Qualidade    | Garantir a qualidade do produto, garantir o cumprimento do conceito de pronto, realizar inspeções de código | Cabeceira                            | 
-| Analista de Projeto      | Garantir que o projeto está sendo feito corretamente|  Cabeceira | 
+| Analista de Projeto      | Garantir que o projeto está sendo feito corretamente|  Equipe | 
+| Engenheiro de Requisitos | Descobrir, elicitar, analisar, consensuar, declarar, representar, organizar e atualizar requisitos | Equipe |
 
 
 
