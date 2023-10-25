@@ -14,22 +14,22 @@
 
 ## 2.2         Planejamento das Fases e/ou Iterações do Projeto
  
-| Sprint  | Produto (Entrega)                                                 | Data Início | Data Fim  |
+| Sprint  | Atividade - Entrega                                                 | Data Início | Data Fim  |
 |---------|--------------------------------------------------------------------|-------------|-----------|
-| Sprint 1 | Definir qual o problema, produto, abordagem, processos e o ciclo de vida | 10/09/23    | 16/09/23  |
-| Sprint 2 | Definir as facetas da engenharia de software e as tecnologias        | 17/09/23    | 22/09/23  |
-| Sprint 3 | Finalização da entregas da missão 1                                 | 25/09/23    | 29/09/23  |
-| Sprint 4 | Planejamento do Projeto, requisitos elicitados, definição do MVP     | 02/10/23    | 07/10/23  |
-| Sprint 5 | Início do User Design ciclo 1: representação                         | 09/10/23    | 13/10/23  |
-| Sprint 6 | Verificação e validação + elicitação e organização: User Design ciclo 1 | 16/10/23    | 20/10/23  |
-| Sprint 7 | Início do User Design ciclo 2: representação/Finalização da entregas da missão 2 | 23/10/23 | 27/10/23 |
-| Sprint 8 | Verificação e validação + elicitação e organização: User Design ciclo 2 | 30/10/23 | 03/11/23 |
-| Sprint 9 | Início do User Design ciclo 3: representação                         | 06/11/23 | 10/11/23 |
-| Sprint 10 | Verificação e validação + elicitação e organização: User Design ciclo 3 | 13/11/23 | 17/11/23 |
-| Sprint 11 | Organização e atualização (Construction)/Finalização da entregas da missão 3 | 20/11/23 | 24/11/23 |
-| Sprint 12 | Verificação e validação (Cutover)                                     | 27/11/23 | 30/11/23 |
-| Sprint 13 | Verificação e validação (Cutover)                                     | 04/12/23 | 08/12/23 |
-| Sprint 14 | Finalização da entregas da missão 3                                    | 11/12/23 | 15/12/23 |
+| Sprint 1 | Definir qual o problema , produto , abordagem,processos e o ciclo de vida <br> - Entrega: Documento de visão de produto com problema, produto e abordagem; Documento definindo os processos e ciclo de vida do projeto. | 10/09/23    | 16/09/23  |
+| Sprint 2 | Definir as facetas da engenharia de software e as tecnologias <br> - Entrega: Documento de facetas da engenharia de software alinhado com as especificações do projeto; Documento com as tecnologias a serem utilizadas no desenvolvimento do projeto. | 17/09/23    | 23/09/23  |
+| Sprint 3 | Definição da visão do produto e projeto/Finalização de entregas da missão 1 <br> - Entregas: Material do Seminário de Processos  e Ciclos de Vida; Visão de Produto e Projeto; Site do Projeto (Git Pages); Vídeo de apresentação das entregas | 24/09/23    | 30/09/23  |
+| Sprint 4 | Planejamento do Projeto,requisitos elicitados, definição do mvp <br> - Entrega: Documento de requisitos preliminar  | 01/10/23    | 07/10/23  |
+| Sprint 5 | Início do user Design ciclo 1: representação <br> - Entrega: Protótipos iniciais do site a serem validados pelo cliente | 08/10/23    | 14/10/23  |
+| Sprint 6 | Verificação e validação + elicitação e organização: User design ciclo 1 <br> - Entrega: Documento acordado com o cliente com os requisitos; Documento de backlog preliminar. | 15/10/23    | 21/10/23  |
+| Sprint 7 | Início do user Design ciclo 2: representação/Finalização da entregas da missão 2 <br> - Entrega: Git Pages corrigido, visão de produto e projeto corrigido; Proposição do MVP; Backlog; Vídeo de apresentação | 22/10/23 | 28/10/23 |
+| Sprint 8 | Verificação e validação + elicitação e organização: User design ciclo 2 <br> - Entrega: Protótipos refinados  | 29/10/23 | 04/11/23 |
+| Sprint 9 | Organização e atualização/ Inicio da implementação do MVP (Construction) <br> - Entrega: Protótipo refinado com o cliente; MVP inicial  | 05/11/23 | 11/11/23 |
+| Sprint 10 | Implementação do MVP (Construction) <br> - Entrega: MVP inicial corrigido e verificado | 12/11/23 | 18/11/23 |
+| Sprint 11 | Implementação do MVP e de demais funcionalidades (Construction)/Finalização da entregas da missão 3 <br> - Entrega: MVP inicial corrigido e verificado com base nas validações com a cliente; Entregas da missão 3 | 19/11/23 | 25/11/23 |
+| Sprint 12 | Verificação e validação do MVP desenvolvido (Cutover) <br> - Entrega: MVP funcional | 26/11/23 | 02/12/23 |
+| Sprint 13 | Verificação e validação de funcionalidades implementadas que não fazem parte do MVP(Cutover) <br> - Entrega: Produto totalmente funcional com falhas esporádicas  | 03/12/23 | 09/12/23 |
+| Sprint 14 | Correção de bugs e erros detectados (Cutover)/ Finalização e entregas da missão 4 <br> - Entrega: Produto funcional e estável  | 10/12/23 | 16/12/23 |
 
 
 ## 2.3         Matriz de Comunicação
