@@ -1,6 +1,6 @@
 ## Backlog
 
-link para uma melhor visualização https://miro.com/app/board/uXjVNeUBBRc=/
+Para uma melhor visualização do nosso Backlog , clique <a href="https://miro.com/app/board/uXjVNeUBBRc=/?share_link_id=982612454503" target= "_blank">aqui</a>. para acessar o nosso mural  
 
 ### Elicitação e descoberta
 ![Image title](assets/elicitacaoDescoberta1.jpg)
@@ -21,7 +21,7 @@ link para uma melhor visualização https://miro.com/app/board/uXjVNeUBBRc=/
 ### Organização e atualização
 
 Para elaborar a priorização e organização das user stories do backlog foi utilizado um checklist analisando cada US baseada nos critérios de Valor de negócio, viabilidade e complexidade técnica.
-Link para acessar a planilha https://docs.google.com/spreadsheets/d/1wb6GRrLysNB-y3L0VhVegTJRlUkszkBlQ5uTzRttVzs/edit#gid=0
+Para uma melhor visualização da nossa tabela de prioridade, clique <a href="https://docs.google.com/spreadsheets/d/1wb6GRrLysNB-y3L0VhVegTJRlUkszkBlQ5uTzRttVzs/edit?usp=sharing" target= "_blank">aqui</a>. para acessar a nossa planilha  
 
 | US | Valor de Negocio | Viabilidade<br> | Complexidade<br>Tecnica | Total |
 | --- | --- | --- | --- | --- |
