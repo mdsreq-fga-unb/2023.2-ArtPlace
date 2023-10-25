@@ -2,12 +2,12 @@
 
 ## 2.1         Organização do Projeto
 
-| Papel                    | Atribuições                                               | Responsável                           | Participantes                 |
-|--------------------------|----------------------------------------------------------|---------------------------------------|------------------------------|
-| Desenvolvedor            | Codificar o produto, codificar testes unitários, realizar refatoração | Guilherme                            | Equipe                       |
-| Dono do Produto          | Atualizar o escopo do produto, organizar o escopo das sprints, validar as entregas | Cristeane Gonsalves Cabeceira                               | George Marsicano            |
-| Analista de Qualidade    | Garantir a qualidade do produto, garantir o cumprimento do conceito de pronto, realizar inspeções de código | Cabeceira                            | Rennan & Rafael              |
-| Analista de Projeto      | Garantir que o projeto está sendo feito corretamente|  Cabeceira | Equipe|
+| Papel                    | Atribuições                                               | Responsável                           | 
+|--------------------------|----------------------------------------------------------|---------------------------------------|
+| Desenvolvedor            | Codificar o produto, codificar testes unitários, realizar refatoração | Guilherme                            | 
+| Dono do Produto          | Atualizar o escopo do produto, organizar o escopo das sprints, validar as entregas | Cristeane Gonsalves Cabeceira e George Marsicano                              | 
+| Analista de Qualidade    | Garantir a qualidade do produto, garantir o cumprimento do conceito de pronto, realizar inspeções de código | Cabeceira                            | 
+| Analista de Projeto      | Garantir que o projeto está sendo feito corretamente|  Cabeceira | 
 
 
 
