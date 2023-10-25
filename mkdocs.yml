@@ -17,6 +17,7 @@ nav:
   - MVP: MVP.md
   - Tabela de Priorização: tabelaPrio.md
   - Lições aprendidas: licoes.md
+  - Requisitos: Requisitos.md
 
 markdown_extensions:
   - tables
