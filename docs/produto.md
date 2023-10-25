@@ -20,8 +20,8 @@ A cliente é uma artesã que atualmente encontra dificuldades em divulgar e vend
 | Para | Artistas, artesãos e amantes de arte | 
 | Quem |Deseja comprar e vender produtos de artesanato em apenas um site | 
 | O ArtPlace | É um site de compra e venda de artes e artesanatos | 
-| Que | Auxilia o comércio de produtos artesanais | 
-| Ao contrário | De outros e-commerces, como a Amazon e o eBay, que não são exclusivamente voltados para o trabalho de artistas e artesãos, desde profissionais até amadores. | 
+| Que | Permite artistas exporem seus produtos para venda com uma taxa de comissão menor que e-commerces como o Mercado livre | 
+| Ao contrário | De outros e-commerces, como a Amazon e o eBay, que cobram uma alta porcentagem da venda dos vendedores e não tem foco no trabalho de artistas e artesãos, desde profissionais até amadores. | 
 | Nosso produto |Traz visibilidade, alcance e comunicação em um só lugar | 
 
 ## 1.3 Objetivos do Produto
