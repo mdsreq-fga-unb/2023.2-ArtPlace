@@ -13,11 +13,10 @@ nav:
   - Visão geral do produto: produto.md
   - Visão geral do projeto: projeto.md
   - Processo de desenvolvimento: processo.md
+  - Requisitos: Requisitos.md
   - Backlog: Backlog.md
   - MVP: MVP.md
-  - Tabela de Priorização: tabelaPrio.md
   - Lições aprendidas: licoes.md
-  - Requisitos: Requisitos.md
 
 markdown_extensions:
   - tables

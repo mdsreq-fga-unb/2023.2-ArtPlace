@@ -41,6 +41,7 @@ O tema da SAFe é melhorar a venda, a compra e a exposição de artesanato e as 
 ### Organização e atualização
 
 Para elaborar a priorização e organização das user stories do backlog foi utilizado um checklist analisando cada US baseada nos critérios de Valor de negócio, viabilidade e complexidade técnica.
+Link para acessar a planilha(https://docs.google.com/spreadsheets/d/1wb6GRrLysNB-y3L0VhVegTJRlUkszkBlQ5uTzRttVzs/edit#gid=0)
 
 | US | Valor de Negocio | Viabilidade<br> | Complexidade<br>Tecnica | Total |
 | --- | --- | --- | --- | --- |
@@ -73,8 +74,3 @@ Para elaborar a priorização e organização das user stories do backlog foi ut
 | Eu, como usuário, quero que a pesquisa me ajude a achar os artistas locais, para saber quem são os artistas perto de mim. | 1 | 1 | 1 | 3 |
 | Eu, como usuário, quero ter um chat privado com o artista, para que eu possa tirar dúvidas acerca do produto ofertado. | 1 | 1 | 1 | 3 |
 
-### MVP
-
-Com a realização da checklist analisando cada US baseada nos critérios de Valor de negócio, viabilidade e complexidade técnica, nos congueguimos definir o MVP com as principais prioridades que encontramos nessa análise.
-
-![Image title](assets/mvp.jpg)
