@@ -15,6 +15,7 @@ nav:
   - Processo de desenvolvimento: processo.md
   - Backlog: Backlog.md
   - MVP: MVP.md
+  - Tabela de Priorização: tabelaPrio.md
   - Lições aprendidas: licoes.md
 
 markdown_extensions:
