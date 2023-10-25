@@ -23,14 +23,22 @@ O tema da SAFe é melhorar a venda, a compra e a exposição de artesanato e as 
 ## Backlog
 
 ### Elicitação e descoberta
+![Image title](assets/elicitacaoDescoberta1.jpg)
+![Image title](assets/elicitacaoDescoberta2.jpg)
 
 ### análise e consenso
+![Image title](assets/analiseConsenso1.jpg)
+![Image title](assets/analiseConsenso2.jpg)
 
 ### Declaração
+![Image title](assets/declaracao1.jpg)
+![Image title](assets/declaracao2.jpg)
 
 ### Verificação e validação
+![Image title](assets/verificacaoValidacao1.jpg)
+![Image title](assets/verificacaoValidacao2.jpg)
 
-### Organozação e atualização
+### Organização e atualização
 
 Para elaborar a priorização e organização das user stories do backlog foi utilizado um checklist analisando cada US baseada nos critérios de Valor de negócio, viabilidade e complexidade técnica.
 
