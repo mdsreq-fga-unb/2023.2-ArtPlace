@@ -6,7 +6,11 @@ O projeto Artplace está sendo desenvolvido pelo grupo "Berserk" na disciplina d
 ## Apresentação
  video da nossa apresentação da missão 1 [Aqui](https://youtu.be/6Hyfo4MrZBU).
 
- <!-- video da nossa apresentação da missão 2 [Aqui](https://youtu.be/6Hyfo4MrZBU). -->
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/6Hyfo4MrZBU?si=23KSpNcI-_6MHseB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ video da nossa apresentação da missão 2 [Aqui](https://youtu.be/6Hyfo4MrZBU).
+
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/jvrQTrk3ThA?si=y0sziiJ3j3WUNq75" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
  
 ## Materiais
 
