@@ -4,8 +4,10 @@
 O projeto Artplace está sendo desenvolvido pelo grupo "Berserk" na disciplina de Requisitos de Software da Universidade de Brasília no 2º semestre de 2023 para solucionar o problema de pequenos artistas na falta de visibilidade e exclusividade nas plataformas atuais. Assim criando um espaço para facilitar a interação entre cliente e os artistas.
 
 ## Apresentação
- video da nossa apresentação está [Aqui](https://unbbr.sharepoint.com/:v:/s/teamsdosmercenrios/EbN1WopWAZBDme8TDq0js_kBjqZtwB4PrkZzP5dM7bXRMw).
+ video da nossa apresentação da missão 1 [Aqui](https://youtu.be/6Hyfo4MrZBU).
 
+ <!-- video da nossa apresentação da missão 2 [Aqui](https://youtu.be/6Hyfo4MrZBU). -->
+ 
 ## Materiais
 
 Para entender nossas escolhas de abordagens, ciclo de vida, processo e facetas da engenharia de requisitos segue o slide:

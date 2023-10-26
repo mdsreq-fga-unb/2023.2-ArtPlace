@@ -6,7 +6,6 @@ Durante a missão 1 foi possível conhecer e entender novas abordagens, ciclos d
 
 Depois de definido um processo, foi identificado em quais as etapas que eram equivalente a determinadas atividades de engenharia de requisitos e assim pudemos ilustrar e entender melhor como o processo escolhido foi elaborado do ponto de vista de levantamento e manutenção dos requisitos.
 
-Vídeo de entrega da missão 1: https://youtu.be/6Hyfo4MrZBU
 ## Missão 2: Conquistar Celestia
 
 A missão 2 tem vários pontos importantes, o primeiro deles foi a maneira correta de como criar uma história de usuário, saber qual é a estrutura mais adequada e o que ela precisa para ser formada. Além disso, aprendemos também sobre as regras de negócio juntamente com maneiras de declarar requisitos mais corretos . Para isso utilizamos modelo de organização chamado Mural, onde através dele foi possível realizar o nosso backlog e o nosso MVP
