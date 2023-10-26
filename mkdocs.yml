@@ -17,6 +17,7 @@ nav:
   - Backlog: Backlog.md
   - MVP: MVP.md
   - Lições aprendidas: licoes.md
+  - Avaliação da Facção Gunthers: verificacao_e_validacao_gunthers.md
 
 markdown_extensions:
   - tables
