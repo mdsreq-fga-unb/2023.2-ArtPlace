@@ -34,11 +34,9 @@ Para uma melhor visualização da nossa tabela de prioridade, clique <a href="ht
 | Eu, como usuário, quero ver os produtos mais vendidos para ter acesso a novos produtos e perspectivas que possam me interessar. | 4 | 3 | 3 | 10 |
 | Eu, como artista, gostaria de cadastrar meus produtos, para que eu possa deixa-los ofertados. | 5 | 5 | 3 | 13 |
 | Eu, como usuário, quero alterar minhas informações do meu perfil,para que eu tenha um perfil atualizado. | 5 | 4 | 4 | 13 |
-| Eu, como usuário, quero saber sobre as políticas de privacidade da plataforma, para saber meus direito e deveres na comunidade. | 5 | 5 | 5 | 15 |
 | Eu, como usuário, quero ter acesso ao catálogo de produtos disponíveis no site, para que eu possa encontrar rapidamente os produtos que se encaixam nos meus interesses. | 5 | 5 | 4 | 14 |
-| Eu, como artista quero me cadastrar na plataforma, para poder divulgar meus produtos no site | 5 | 5 | 3 | 13 |
-| Eu, como artista, quero saber sobre as políticas privadas, para fazer as publicações dos meus produtos sem ferir um regra da plateforma. | 5 | 5 | 5 | 15 |
-| Eu, como usuário quero me cadastrar na plataforma, para ter acesso aos produtos que estão disponíveis. | 5 | 5 | 3 | 13 |
+| Eu, como artista quero me cadastrar na plataforma como expositor, para poder divulgar meus produtos no site | 5 | 5 | 3 | 13 |
+| Eu, como usuário quero me cadastrar na plataforma como comprador, para ter acesso aos produtos que estão disponíveis para venda. | 5 | 5 | 3 | 13 |
 | Eu, como artista, quero me logar na plataforma, para ter a minha vitrine | 5 | 5 | 4 | 14 |
 | Eu, como usuário, gostaria de publicar avaliações sobre os produtos que comprei, para que eu possa ajudar novos usuários a decidir sobre sua compra. | 5 | 4 | 3 | 12 |
 | Eu, como usuário, gostaria de ter acesso às avaliações dos produtos, para me ajudar a decidir sobre a compra. | 5 | 4 | 4 | 13 |
