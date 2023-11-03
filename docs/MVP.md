@@ -14,7 +14,7 @@ Segui o link para acessar o MVP https://docs.google.com/document/d/122IqnoNvxjJa
 | Eu, como usuário, quero ter acesso ao catálogo de produtos disponíveis no site, para que eu possa encontrar rapidamente os produtos que se encaixam nos meus interesses. | 14 |
 | Eu, como artista, quero me logar na plataforma, para ter a minha vitrine | 14 |
 | Eu, como usuário, quero me cadastrar na plataforma como comprador, para ter acesso aos produtos que estão disponíveis para venda. | 13 |
-| Eu, como artista quero me cadastrar na plataforma com expositor, para poder divulgar meus produtos no site. | 13 |
+| Eu, como artista quero me cadastrar na plataforma como expositor, para poder divulgar meus produtos no site. | 13 |
 | Eu, como artista, gostaria de cadastrar meus produtos, para que eu possa deixá-los ofertados. | 13 |
 | Eu, como usuário, quero alterar minhas informações do meu perfil,para que eu tenha um perfil atualizado. | 13 |
 | Eu, como usuário, gostaria de ter acesso às avaliações dos produtos, para me ajudar a decidir sobre a compra. | 13 |
