@@ -1,5 +1,5 @@
 ## Backlog
-O backlog do produto consiste em uma lista com os requisitos que são identificados ao longo do projeto,  é uma artefato dinâmico, ou seja, pode ser atualizado conforme novas necessidades e requisitos forem identificados. Para auxiliar na construção do backlog foi utilizado o SAFe. Além disso para a elaboração das user stories ficou definido a formatação de who-what-why, que significa quem, o quê e porquê, ou seja, as user stories definidas no backlog deverão ter o seguinte formato: 
+<p align="justify">&emsp;&emsp;O backlog do produto consiste em uma lista com os requisitos que são identificados ao longo do projeto,  é uma artefato dinâmico, ou seja, pode ser atualizado conforme novas necessidades e requisitos forem identificados. Para auxiliar na construção do backlog foi utilizado o SAFe. Além disso para a elaboração das user stories ficou definido a formatação de who-what-why, que significa quem, o quê e porquê, ou seja, as user stories definidas no backlog deverão ter o seguinte formato:</p>
 
 Eu como '< quem >', quero '< o que >', para '< porque >' 
 

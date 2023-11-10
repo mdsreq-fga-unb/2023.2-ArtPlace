@@ -1,8 +1,8 @@
 ## MVP
 
-Com a realização do checklist analisando cada US baseada nos critérios de Valor de negócio, viabilidade e complexidade técnica, nos conseguimos definir o MVP com as principais prioridades que encontramos nessa análise.
+<p align="justify">&emsp;&emsp;Com a realização do checklist analisando cada US baseada nos critérios de Valor de negócio, viabilidade e complexidade técnica, nos conseguimos definir o MVP com as principais prioridades que encontramos nessa análise.</p>
 
-Segui o link para acessar o MVP https://docs.google.com/document/d/122IqnoNvxjJakzZ3sUVQeUntU2511GlQY81GcKWIH_w/edit
+Segue o link para acessar o MVP https://docs.google.com/document/d/122IqnoNvxjJakzZ3sUVQeUntU2511GlQY81GcKWIH_w/edit
 
 
 <center>

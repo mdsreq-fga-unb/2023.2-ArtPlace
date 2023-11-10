@@ -1,16 +1,25 @@
 # Facção Bersek
 
 ## Sobre o Projeto
-O projeto Artplace está sendo desenvolvido pelo grupo "Berserk" na disciplina de Requisitos de Software da Universidade de Brasília no 2º semestre de 2023 para solucionar o problema de pequenos artistas na falta de visibilidade e exclusividade nas plataformas atuais. Assim criando um espaço para facilitar a interação entre cliente e os artistas.
+<p align="justify">&emsp;&emsp;O projeto Artplace está sendo desenvolvido pelo grupo "Berserk" na disciplina de Requisitos de Software da Universidade de Brasília no 2º semestre de 2023 para solucionar o problema de pequenos artistas na falta de visibilidade e exclusividade nas plataformas atuais. Assim criando um espaço para facilitar a interação entre cliente e os artistas.</p>
 
 ## Apresentação
  video da nossa apresentação da missão 1 [Aqui](https://youtu.be/6Hyfo4MrZBU).
 
+<center>
+
  <iframe width="560" height="315" src="https://www.youtube.com/embed/6Hyfo4MrZBU?si=23KSpNcI-_6MHseB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+
 
  video da nossa apresentação da missão 2 [Aqui](https://youtu.be/6Hyfo4MrZBU).
 
+<center>
+
  <iframe width="560" height="315" src="https://www.youtube.com/embed/jvrQTrk3ThA?si=y0sziiJ3j3WUNq75" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+ 
+ </center>
  
 ## Materiais
 
@@ -27,6 +36,8 @@ Para entender nossas escolhas de abordagens, ciclo de vida, processo e facetas d
 </div>
 
 
+
+
 ## Integrantes
 
 | foto | nome | GitHub |
@@ -38,10 +49,12 @@ Para entender nossas escolhas de abordagens, ciclo de vida, processo e facetas d
 | <img src="https://avatars.githubusercontent.com/u/79025349?v=4" alt="Foto" style="width:100px"/> | Rafael | [https://github.com/rafa-kenji](https://github.com/rafa-kenji) |
 | <img src="https://avatars.githubusercontent.com/u/64983769?v=4" alt="Foto" style="width:100px"/> | Rennann| [https://github.com/NyndoND](https://github.com/NyndoND) |
 
+</center> 
+
 ## Histórico de Versões
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |
-| -------- | -------- | --------------------------------------------------- | -------------- |
+| :--------: | :--------: | :---------------------------------------------------: | :--------------: |
 |  `1.0`   | 19/04/23 | Criação do escopo do documento | Fause |
 |  `1.2`   | 23/04/23 | Atualização das informações | Pedro Muniz |
 |  `1.3`   | 24/04/23 | Revisão dos tópicos | Fause, Pedro Cabeceira |

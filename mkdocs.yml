@@ -7,17 +7,51 @@ site_description: >-
 site_url: https://mdsreq-fga-unb.github.io/2023.2-ArtPlace/
 
 
+
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/git-alt
+  palette:
+    - scheme: default 
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: red
+      accent: black
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: red
+      accent: black
+  font:
+    text: Roboto
+  language: pt
+  features:
+    - content.code.annotate
+    - content.tabs.link
+    - header.autohide
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - navigation.tabs.sticky
+
 nav:
   - Página Inicial: index.md
   - História: historia.md
   - Visão geral do produto: produto.md
-  - Visão geral do projeto: projeto.md
-  - Processo de desenvolvimento: processo.md
-  - SAFe: SAFe.md
-  - Backlog: Backlog.md
-  - MVP: MVP.md
+  - Missão 1: 
+    - Visão geral do projeto: projeto.md
+    - Processo de desenvolvimento: processo.md
+  - Missão 2: 
+    - SAFe: SAFe.md
+    - Backlog: Backlog.md
+    - MVP: MVP.md 
+    - Avaliação da Facção Gunthers: verificacao_e_validacao_gunthers.md
   - Lições aprendidas: licoes.md
-  - Avaliação da Facção Gunthers: verificacao_e_validacao_gunthers.md
 
 markdown_extensions:
   - tables
@@ -35,3 +69,4 @@ markdown_extensions:
   - footnotes
   - pymdownx.details
   - pymdownx.superfences
+
