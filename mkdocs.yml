@@ -42,7 +42,18 @@ theme:
 nav:
   - Página Inicial: index.md
   - História: historia.md
-  - Visão geral do produto: produto.md
+  - Documentação:
+    - Visão geral do produto: produto.md
+    - Ciclos: 
+      - Ciclo 1: Ciclos/ciclo1.md
+      - Ciclo 2: Ciclos/ciclo2.md
+      - Ciclo 3: Ciclos/ciclo3.md
+      - Ciclo 4: Ciclos/ciclo4.md
+      - Ciclo 5: Ciclos/ciclo5.md
+      - Ciclo 6: Ciclos/ciclo6.md
+      - Ciclo 7: Ciclos/ciclo7.md
+      - Ciclo 8: Ciclos/ciclo8.md
+      - Ciclo 9: Ciclos/ciclo9.md
   - Missão 1: 
     - Visão geral do projeto: projeto.md
     - Processo de desenvolvimento: processo.md
