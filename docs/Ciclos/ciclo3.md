@@ -2,10 +2,20 @@
 
 ## Data de início e fim do ciclo
 
+*24/09/23* - *30/09/23*
+
 ## Ata da reunião
+
+
 
 ## Retrospectiva
 
+        Resumo: analisamos os feedbacks do porfessor e do monitor e atualizamos os nossos documentos
+
+                Finalizamos as entregas do git pages
+
 ## Review
 
-## Histórico de versão
+        Entregas : Terminamos a missão 1
+
+

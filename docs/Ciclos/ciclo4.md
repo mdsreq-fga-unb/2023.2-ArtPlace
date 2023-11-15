@@ -2,10 +2,19 @@
 
 ## Data de início e fim do ciclo
 
+*01/10/23* - *07/10/23*
+
 ## Ata da reunião
+
+[Documento das funcionalidades](atas/doc.pdf)
 
 ## Retrospectiva
 
+        Resumo: atualizamos os nossos requisitos que foram previamente elencados
+
+                Reunião com a cliente  
+
 ## Review
 
-## Histórico de versão
+        Definimos os requisitos do nosso sistema
+
