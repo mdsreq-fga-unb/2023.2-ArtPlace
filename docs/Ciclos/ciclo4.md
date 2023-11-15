@@ -6,7 +6,7 @@
 
 ## Ata da reunião
 
-[Documento das funcionalidades](atas/doc.pdf)
+[Documento das funcionalidades](../atas/doc%20.pdf)
 
 ## Retrospectiva
 
