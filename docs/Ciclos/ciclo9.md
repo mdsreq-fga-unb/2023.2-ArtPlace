@@ -6,6 +6,10 @@
 
 ## Ata da reunião
 
+[Baixar ata da reunião em PDF](atas/06_11ATA.docx.pdf)
+
+[Baixar ata da reunião em PDF](atas/08_11Ata.docx.pdf)
+
 ## Retrospectiva
 
 Resumo:
