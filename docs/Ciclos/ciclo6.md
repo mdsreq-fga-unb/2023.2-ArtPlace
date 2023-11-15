@@ -6,9 +6,9 @@
 
 ## Ata da reunião
 
-[Baixar ata da reunião em PDF](atas/16_10_Ata.docx.pdf)
+[Baixar ata da reunião em PDF](../atas/16_10_Ata.docx.pdf)
 
-[Baixar ata da reunião em PDF](atas/18_10_Ata.docx.pdf)
+[Baixar ata da reunião em PDF](../atas/18_10%20Ata%20.docx.pdf)
 
 ## Retrospectiva
 
