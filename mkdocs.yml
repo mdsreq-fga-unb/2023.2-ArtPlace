@@ -59,7 +59,7 @@ nav:
     - Processo de desenvolvimento: processo.md
   - Missão 2: 
     - SAFe: SAFe.md
-    - Backlog: Backlog.md
+    # - Backlog: Backlog.md
     - MVP: MVP.md 
     - Avaliação da Facção Gunthers: verificacao_e_validacao_gunthers.md
   - Lições aprendidas: licoes.md
