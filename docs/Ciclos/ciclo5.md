@@ -8,9 +8,10 @@
 
 ## Retrospectiva
 
-Resumo:
+Resumo: Realização dos requisitos, reorganizar o cronograma e fizemos o protótipo de baixa fidalidade
 
 ## Review
 
-Entregas :
+Entregas : Protótipo de baixa fidelidade
+[Documento das funcionalidades](../documentos/prototipodebaixa.pdf)
 
