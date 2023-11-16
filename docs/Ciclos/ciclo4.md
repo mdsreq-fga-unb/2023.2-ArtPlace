@@ -10,11 +10,10 @@
 
 ## Retrospectiva
 
-        Resumo: atualizamos os nossos requisitos que foram previamente elencados
-
-                Reunião com a cliente  
+- Atualizamos os nossos requisitos que foram previamente elencados
+- Reunião com a cliente
 
 ## Review
 
-        Definimos os requisitos do nosso sistema
+Definimos os requisitos do nosso sistema
 

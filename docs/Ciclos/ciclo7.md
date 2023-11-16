@@ -8,8 +8,9 @@
 
 ## Retrospectiva
 
-Resumo:
+- Correção da visão de produto e projeto
 
 ## Review
 
-Entregas :
+Entregas: 
+- Protótipos refinados

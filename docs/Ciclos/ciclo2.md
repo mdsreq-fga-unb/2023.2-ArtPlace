@@ -13,16 +13,15 @@
 
 ## Retrospectiva
 
-resumo: Reestruturação da abordagem,ciclo de vida e processo do nosso produto 
-
-        Construção do documento de visão
-
-        Conversa com a nossa cliente para reorganizar nossas ideias 
+- Reestruturação da abordagem, ciclo de vida e processo do nosso produto 
+- Construção do documento de visão
+- Conversa com a nossa cliente para reorganizar nossas ideias 
 
 ## Review
 
-entregas: Criação do git pages 
-          Documento de visão
-          Documentação da abordagem 
-          Entregas da missão 1
+Entregas: 
+- Criação do git pages 
+- Documento de visão
+- Documentação da abordagem 
+- Entregas da missão 1
 

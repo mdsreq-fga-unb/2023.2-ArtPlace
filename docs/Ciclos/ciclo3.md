@@ -10,12 +10,11 @@
 
 ## Retrospectiva
 
-        Resumo: analisamos os feedbacks do porfessor e do monitor e atualizamos os nossos documentos
-
-                Finalizamos as entregas do git pages
+- Analisamos os feedbacks do porfessor e do monitor e atualizamos os nossos documentos
+- Finalizamos as entregas do git pages
 
 ## Review
 
-        Entregas : Terminamos a missão 1
+Entregas : Terminamos a missão 1
 
 

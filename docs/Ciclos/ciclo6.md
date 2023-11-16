@@ -12,8 +12,12 @@
 
 ## Retrospectiva
 
-Resumo:
+- Resolvemos as issues pendentes
+- Desenvolvimento do MVP
 
 ## Review
 
-Entregas :
+Entregas:
+- Planejamento do MVP
+- Arquivo de correção do Gunters
+- Correções da missão 1
