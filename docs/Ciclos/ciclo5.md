@@ -13,5 +13,5 @@ Resumo: Realização dos requisitos, reorganizar o cronograma e fizemos o protó
 ## Review
 
 Entregas : Protótipo de baixa fidelidade
-[Documento das funcionalidades](../documentos/prototipodebaixa.pdf)
+[Documento do protótipo da baixa fidalidade](../documentos/prototipodebaixa.pdf)
 
