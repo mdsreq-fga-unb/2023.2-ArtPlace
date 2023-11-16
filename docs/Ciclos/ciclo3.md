@@ -15,6 +15,7 @@
 
 ## Review
 
-Entregas : Terminamos a missão 1
+Entregas: 
+- Terminamos a missão 1
 
 
