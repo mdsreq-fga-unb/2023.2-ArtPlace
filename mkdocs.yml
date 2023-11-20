@@ -44,6 +44,7 @@ nav:
   - História: historia.md
   - Documentação:
     - Visão geral do produto: produto.md
+    - Protótipos do site: prototipos.md
     - Ciclos: 
       - Ciclo 1: Ciclos/ciclo1.md
       - Ciclo 2: Ciclos/ciclo2.md
@@ -59,10 +60,17 @@ nav:
     - Processo de desenvolvimento: processo.md
   - Missão 2: 
     - SAFe: SAFe.md
-    # - Backlog: Backlog.md
     - MVP: MVP.md 
     - Avaliação da Facção Gunthers: verificacao_e_validacao_gunthers.md
+  - Missão 3: 
+    - Product backlog building: missao3/PBB.md
+    - User Story Mapping: missao3/USM.md
+    - DOR e DOD: missao3/DoreDod.md
+    - Critérios de aceitação ArtPlace: missao3/CaArtPlace.md
+    - Validação skywalkers: missao3/ValSkywalkers.md
+    - BDD skywalkers: missao3/BddSkywalkers.md
   - Lições aprendidas: licoes.md
+
 
 markdown_extensions:
   - tables
