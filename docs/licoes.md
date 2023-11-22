@@ -15,4 +15,7 @@
 
 ## Missão 3: Conhecimento e Inovação
 
+<p align="justify">&emsp;&emsp;A Missão 3 foi muito importante para a formação do conhecimento dos membros da facção berserk , pois nesta etapa da disciplina nos deparamos com diversos desafios e lições importantes. Ao construir o PBB entendemos a importância de analisar o projeto e definir qual a melhor maneira de se construir o backlog do produto de acordo com o problema do cliente, e seguindo essa linha de pensamento desenvolvemos os USM de outro problemas de caso, fazendo que que nosso conhecimento na construção do backlog ficasse cada vez mais profundo , além de paralelamente a estes fatos, nos realizamos os DOR e dos , critérios de aceitação do nosso projeto nos dando uma nova visão de como dimensionar o nosso planejamento.</p>
+
+
 ## Missão 4: Preservação da Galáxia

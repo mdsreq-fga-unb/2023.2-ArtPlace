@@ -1,5 +1,7 @@
 # User Story Mapping
 
+Para uma melhor visualização do nosso USM, clique <a href="https://miro.com/app/board/uXjVNeUBBRc=/" target= "_blank">aqui</a>. para acessar o nosso miro 
+
 ## Introdução
 <p align="justify">&emsp;&emsp;Durante a execução da missão 3, mais especificamente na operação "emboscada silenciosa" foi solicitado às facções que construissem o backlog de um produto usando user story mapping proposto pelo comandante estelar, nesse documento estará exposto o USM construido pela facção Berserk para essa operação.</p>
 
@@ -13,6 +15,10 @@
 - Ter uma melhor compreensão compartilhada de oque construir e porque construir;
 
 <p align="justify">&emsp;&emsp;Abaixo está o user story mapping construído para o exercício de estudo de caso da "ComunEventos"</p>
+
+## Priorização
+
+<p align="justify">&emsp;&emsp;Para realizar a priorização das nossas User storys utilizamos o Método de priorização MoSCoW, de forma que está dividido em 4 classes, Vai entrar, deveria, poderia , não Vai, representados pelos seguintes emojis 😍,🎉,😊 e 😣 consecutivamente.</p> 
 
 ## User Story Mapping para o ComunEventos
 
