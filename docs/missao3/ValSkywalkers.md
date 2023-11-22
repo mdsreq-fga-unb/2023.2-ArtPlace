@@ -1,10 +1,10 @@
 # Validação Skywalkers
 
-Neste artefato encontraremos os Checklist realizados pelos membros da facção Berserk Durante a missão 3, com objetivo de verificar e validar os determinados elementos analisados 
+<p align="justify">&emsp;&emsp;Neste artefato encontraremos os Checklist realizados pelos membros da facção Berserk Durante a missão 3, com objetivo de verificar e validar os determinados elementos analisados</p> 
 
 ## Validação das User Stories
 
-Durante as construção do BDD da facção Skywalker, foi necessário realizar a construção do  checklist das User Storys derivadas dos PBI, para entendermos se os Critérios de aceitação estão construídos de maneira correta
+<p align="justify">&emsp;&emsp;Durante as construção do BDD da facção Skywalker, foi necessário realizar a construção do  checklist das User Storys derivadas dos PBI, para entendermos se os Critérios de aceitação estão construídos de maneira correta</p>
 
 <center>
 
@@ -19,7 +19,7 @@ Durante as construção do BDD da facção Skywalker, foi necessário realizar a
 
 ## Validação dos Critérios de Aceitação
 
-Após a etapa de verificação das User Storys derivadas dos PBI, Realizamos um checklist dos Critérios de aceitação e dessa forma começarmos a construção do BDD 
+<p align="justify">&emsp;&emsp;Após a etapa de verificação das User Storys derivadas dos PBI, Realizamos um checklist dos Critérios de aceitação e dessa forma começarmos a construção do BDD </p>
 
 
 <center>
@@ -35,7 +35,7 @@ Após a etapa de verificação das User Storys derivadas dos PBI, Realizamos um 
 
 ## Validação do PBB
 
- No processo de desenvolvimento do estudo de caso HealthNet, realizamos a verificação geral do PBB construído pelos Skywalkers 
+ <p align="justify">&emsp;&emsp;No processo de desenvolvimento do estudo de caso HealthNet, realizamos a verificação geral do PBB construído pelos Skywalkers </p>
 
 <center>
 
@@ -58,7 +58,7 @@ Após a etapa de verificação das User Storys derivadas dos PBI, Realizamos um 
 
 ## Validação pelo DOR e DOD
 
-abaixo temos a etapa de verificação e validação dos DOR e DODs construídos pela fação skywalker
+<p align="justify">&emsp;&emsp;abaixo temos a etapa de verificação e validação dos DOR e DODs construídos pela fação skywalker</p>
 
 <center>
 
