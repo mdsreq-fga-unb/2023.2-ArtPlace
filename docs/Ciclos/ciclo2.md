@@ -10,14 +10,21 @@
 
 [Baixar ata da reunião em PDF](../atas/20_09_Ata.docx.pdf)
 
+## Planning
+
+![Image title](../assets/sprints/sprint2c.jpg)
 
 ## Retrospectiva
+
+![Image title](../assets/sprints/sprint2b.jpg)
 
 - Reestruturação da abordagem, ciclo de vida e processo do nosso produto 
 - Construção do documento de visão
 - Conversa com a nossa cliente para reorganizar nossas ideias 
 
 ## Review
+
+![Image title](../assets/sprints/sprint2a.jpg)
 
 Entregas: 
 - Criação do git pages 

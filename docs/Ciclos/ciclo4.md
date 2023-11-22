@@ -8,12 +8,20 @@
 
 [Documento das funcionalidades](../atas/doc%20.pdf)
 
+## Planning 
+
+![Image title](../assets/sprints/sprint4c.jpg)
+
 ## Retrospectiva
+
+![Image title](../assets/sprints/sprint4b.jpg)
 
 - Atualizamos os nossos requisitos que foram previamente elencados
 - Reunião com a cliente
 
 ## Review
+
+![Image title](../assets/sprints/sprint4a.jpg)
 
 Definimos os requisitos do nosso sistema
 

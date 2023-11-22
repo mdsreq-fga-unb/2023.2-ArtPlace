@@ -4,11 +4,14 @@
 
  *10/09/23* - *16/09/23*
 
-## Ata da reunião
+## Planning
+
+![Image title](../assets/sprints/sprint1c.jpg)
 
 ## Retrospectiva
 
+![Image title](../assets/sprints/sprint1b.jpg)
+
 ## Review
 
-
-
+![Image title](../assets/sprints/sprint1a.jpg)

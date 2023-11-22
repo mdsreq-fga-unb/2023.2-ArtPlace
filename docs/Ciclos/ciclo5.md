@@ -4,14 +4,20 @@
 
 *08/10/23* - *14/10/23*
 
-## Ata da reunião
+## Planning
+
+![Image title](../assets/sprints/sprint5c.jpg)
 
 ## Retrospectiva
+
+![Image title](../assets/sprints/sprint5b.jpg)
 
 - Realização dos requisitos, reorganizar o cronograma 
 - Fizemos o protótipo de baixa fidalidade
 
 ## Review
+
+![Image title](../assets/sprints/sprint5a.jpg)
 
 Entregas:
 
