@@ -13,7 +13,21 @@
 
 ## Review
 
-Entregas: 
-- Protótipo de baixa fidelidade
-[Documento do protótipo da baixa fidalidade](../documentos/prototipodebaixa.pdf)
+Entregas:
 
+- Feedback da cliente
+- Protótipo de baixa fidelidade
+
+***
+Cadastro
+![Image title](..//prototipo/cadastrar.jpeg)
+Login
+![Image title](..//prototipo/login.jpeg)
+Home usuário
+![Image title](..//prototipo/home%20usúario.jpeg)
+Home artista
+![Image title](..//prototipo/home%20artista.jpeg)
+Feedback
+![Image title](..//prototipo/feedback.jpeg)
+Perfil
+![Image title](..//prototipo/perfil.jpeg)
