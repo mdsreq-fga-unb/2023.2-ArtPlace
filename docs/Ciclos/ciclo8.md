@@ -4,14 +4,20 @@
 
 *29/10/23* - *04/11/23*
 
-## Ata da reunião
+## Planning
+
+![Image title](../assets/sprints/planning_sprint8.png)
 
 ## Retrospectiva
+
+![Image title](../assets/sprints/retrospective_sprint8.png)
 
 - Corrigimos o git pages 
 - Fizemos o a verificação e validadação.
 
 ## Review
+
+![Image title](../assets/sprints/review_sprint8.png)
 
 Entregas : 
 - Fizemos os prototipo de alta finadelidade  

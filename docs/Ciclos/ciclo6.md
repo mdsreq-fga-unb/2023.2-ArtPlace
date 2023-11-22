@@ -4,18 +4,20 @@
 
 *15/10/23* - *21/10/23*
 
-## Ata da reunião
+## Planning
 
-[Baixar ata da reunião em PDF](../atas/16_10_Ata.docx.pdf)
-
-[Baixar ata da reunião em PDF](../atas/18_10%20Ata%20.docx.pdf)
+![Image title](../assets/sprints/Planning_sprint6.png)
 
 ## Retrospectiva
+
+![Image title](../assets/sprints/retrospective_sprint6.png)
 
 - Resolvemos as issues pendentes
 - Desenvolvimento do MVP
 
 ## Review
+
+![Image title](../assets/sprints/review_sprin6.png)
 
 Entregas:
 - Planejamento do MVP

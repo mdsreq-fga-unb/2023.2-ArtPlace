@@ -4,19 +4,21 @@
 
 *05/11/23* - *11/11/23*
 
-## Ata da reunião
+## Planning
 
-[Baixar ata da reunião em PDF](../atas/06_11%20ATA.docx.pdf)
-
-[Baixar ata da reunião em PDF](../atas/08_11%20Ata.docx.pdf)
+![Image title](../assets/sprints/planning_sprint9.png)
 
 ## Retrospectiva
+
+![Image title](../assets/sprints/Retrospective_sprint9.png)
 
 - Correção do MVP
 - Criação do PBB, critérios de aceitação, DoR e DoD do nosso projeto 
 - Vericicação e validação das CA e US dos Skywalker
 
 ## Review
+
+![Image title](../assets/sprints/review_sprint9.png)
 
 Entregas:
 - [Documento do protótipo de alta fidalidade](https://www.figma.com/proto/iLiV02gQO9rTmtNbRC2Ejb/ArtPlace?type=design&node-id=4-2&t=k8IW6HRsnwb6F6H0-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=4%3A2)
