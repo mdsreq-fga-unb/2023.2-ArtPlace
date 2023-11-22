@@ -16,6 +16,6 @@ O BDD não é apenas uma técnica de teste, mas uma filosofia que enfatiza o ent
 
 <center>
 
-<iframe width="768" height="432" src="https://miro.com/app/board/uXjVNeUBBRc=/?share_link_id=510976657388" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNLwFLxE=/?moveToViewport=-20451,-11454,45808,22032&embedId=179640915655" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 </center>
