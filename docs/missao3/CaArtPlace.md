@@ -1,9 +1,7 @@
 ## Critérios de Aceitação 
 É uma descrição textual que expressa as condições para o aceite (validação) de uma história de usuário.
 
-Os critérios de aceitação foram criados usando como base a estrutura
-Eu, <u>como</u> cliente, <u>gostaria de</u> sacar dinheiro no caixa eletrônico <u>para</u> evitar a fila
-do banco.
+Os critérios de aceitação foram criados usando como base nas histórias de usuário como uma forma de verificar se a história foi completada. 
 
 <center>
 <p align="justify">&emsp;&emsp;</p>
