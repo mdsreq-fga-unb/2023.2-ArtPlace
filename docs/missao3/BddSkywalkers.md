@@ -1,7 +1,3 @@
-# User Story Mapping
-
-Para uma melhor visualização do nosso USM, clique <a href="https://miro.com/app/board/uXjVNeUBBRc=/" target= "_blank">aqui</a>. para acessar o nosso miro 
-
 ## BDD
 Behavior-Driven Development (BDD)
 
