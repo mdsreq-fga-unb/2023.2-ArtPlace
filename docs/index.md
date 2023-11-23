@@ -12,14 +12,24 @@
 
 </center>
 
-
- video da nossa apresentação da missão 2 [Aqui](https://youtu.be/6Hyfo4MrZBU).
+ video da nossa apresentação da missão 2 [Aqui](https://www.youtube.com/watch?v=jvrQTrk3ThA).
 
 <center>
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/jvrQTrk3ThA?si=y0sziiJ3j3WUNq75" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
  
  </center>
+
+ video da nossa apresentação da missão 3 [Aqui](https://www.youtube.com/watch?v=DcOhlFag15M).
+
+<center>
+
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/DcOhlFag15M?si=Dd6UZ6dMSmPB6yG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ 
+ </center>
+
+
+
  
 ## Materiais
 
