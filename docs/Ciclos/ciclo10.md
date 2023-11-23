@@ -10,7 +10,7 @@
 
 ## Retrospectiva
 
-![Image title](../assets/sprints/Retrospective_sprint10.png)
+![Image title](../assets/sprints/reprospective_sprint10.png)
 
 
 ## Review
