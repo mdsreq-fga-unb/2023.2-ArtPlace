@@ -1,0 +1,87 @@
+.Login-Form-Container{
+    position: absolute;
+    width: 578px;
+    height: 423px;
+    left: 80px;
+    top: 301px;
+    background: #749857;    
+    border-radius: 45px;
+
+}
+
+.botao-cadastro{
+    position: relative;
+    border: none;
+    background: transparent;
+    top: 80px;
+    left: 150px;
+    font-size: 15px;
+    height: 30px;
+    width: 270px;
+}
+
+.botao-cadastro:hover{
+    color: #F0E8D2;
+    cursor: pointer;
+}
+
+.Login-form{
+    display: flex;
+    flex-direction: column;
+    margin:auto;
+    align-items: left;
+    justify-content: center;
+    gap: 25px;
+}
+
+.inputlogin{
+    display: flex;
+    position: relative;
+    top: 70px;
+    align-items: center;
+    margin: auto;
+    width: 402.81px;
+    height: 53.63px;
+    background: #F2E8CF;
+    border-radius: 45px;
+}
+
+.inputlogin input{
+    position: relative;
+    width: 400px;
+    height: 50px;
+    background: transparent;
+    border:none;
+    outline: none;
+    font-size: 19px;
+}
+
+.botao-submit-login{
+    text-align: center;
+    border:none;
+    font-size: 30px;
+    color: #FFFFFF;
+    position: absolute;
+    top:310px;
+    left: 100px;
+    width: 369.44px;
+    height: 52.44px;
+    background: #AEC867;
+    border-radius: 45px;
+
+}
+
+
+.botao-submit-login{
+    color: #F0E8D2;
+    cursor: pointer;
+}
+
+
+.image {
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    margin-top: 40px;
+    margin-left: 800px;
+  }
