@@ -3,7 +3,9 @@
 function App() {
   return (
     <div className="App">
-      <h2>bora codar!!!!</h2>
+      <button onclick>
+        clique aqui
+      </button>
     </div>
   );
 }
