@@ -1,0 +1,51 @@
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 200px;
+    margin-top: 300px;
+    gap: 30px;
+    border-radius: 45px;
+  }
+  
+  .card {
+    width: 300px;
+    height: 275px;
+    left: 28px;
+    top: 282px;
+    background: #749857;
+    border-radius: 45px;
+
+  }
+
+  .imagem{
+    position: relative;
+    width: 130px;
+    height: 130px;
+    margin-bottom: 1rem;
+    border-top-left-radius: 45px;
+    z-index: 1;
+}
+
+.retangulo{
+  position: relative;
+  width: 200px;
+  height: 47px;
+  left: 100px;
+  top: -150px;
+  border-top-right-radius: 45px;
+  background: #AE4F4D;
+  z-index: 0;
+}
+
+
+
+
+  .title{
+    color: antiquewhite;
+  }
+  
+  
+
+  
+  

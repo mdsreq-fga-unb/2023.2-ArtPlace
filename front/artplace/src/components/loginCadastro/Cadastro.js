@@ -15,6 +15,7 @@ export const  Cadastro = (props) => {
     }
 
     return(
+        
         <div className='page'>
             <div className='texto'>
                 <h2 content='descricao'>O que é o ArtPlace?</h2>
@@ -60,7 +61,8 @@ export const  Cadastro = (props) => {
                 
                 </form>
             </div>
-        </div>
+        </div>   
+        
     );
 }
 

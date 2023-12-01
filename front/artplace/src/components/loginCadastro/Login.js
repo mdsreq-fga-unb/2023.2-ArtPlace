@@ -13,6 +13,7 @@ export const Login = (props) => {
     }
 
     return(
+        <div className='problema2'>
         <div className='page'>
             <img class="image" src={pintor_image} alt="Imagem na bola"/>
             <div className='Login-Form-Container'>
@@ -30,10 +31,14 @@ export const Login = (props) => {
                         <button className='botao-cadastro'onClick={( ) => props.onFormSwitch('register')}>Ainda não possui um cadastro?</button>
 
                         <button className = 'botao-submit-login' type='submit'> Login </button>
+                        <div className='LoginTeste'>
+                            <a href='home'>teste meufi</a>
+                        </div>
                         
                 </form>
                 
             </div>
+        </div>
         </div>
         
     );

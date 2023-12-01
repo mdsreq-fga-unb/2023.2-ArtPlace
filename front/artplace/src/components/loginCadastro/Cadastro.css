@@ -2,7 +2,7 @@ body{
   background-color: #AE4F4D;
 }
 
-.texto,.h2{
+.texto, .h2{
   text-align: left;
   position: absolute;
   left: 850px;
@@ -187,4 +187,3 @@ h1{
   color: #F0E8D2;
   cursor: pointer;
 }
-

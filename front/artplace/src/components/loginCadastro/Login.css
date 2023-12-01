@@ -1,3 +1,11 @@
+.page{
+    border: none;
+    position:absolute;
+    height: 100%;
+    width: 100%;
+    background-color: #AE4F4D;
+}
+
 .Login-Form-Container{
     position: absolute;
     width: 578px;
@@ -71,6 +79,20 @@
 
 }
 
+.LoginTeste{
+    justify-content: center;
+    text-align: center;
+    border:none;
+    font-size: 30px;
+    color: #FFFFFF;
+    position: absolute;
+    top:500px;
+    left: 100px;
+    width: 369.44px;
+    height: 52.44px;
+    background: #AEC867;
+    border-radius: 45px;
+}
 
 .botao-submit-login{
     color: #F0E8D2;
