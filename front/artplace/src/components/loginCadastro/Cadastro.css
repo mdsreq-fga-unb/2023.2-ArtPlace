@@ -1,5 +1,14 @@
-body{
+*{
+  margin: 0; 
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.page{
   background-color: #AE4F4D;
+  position: absolute;
+  width: 100%;
+  height: 100%;
 }
 
 .texto, .h2{

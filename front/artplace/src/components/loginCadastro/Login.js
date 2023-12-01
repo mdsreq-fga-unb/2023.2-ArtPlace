@@ -13,8 +13,8 @@ export const Login = (props) => {
     }
 
     return(
-        <div className='problema2'>
-        <div className='page'>
+        
+        <div className='page2'>
             <img class="image" src={pintor_image} alt="Imagem na bola"/>
             <div className='Login-Form-Container'>
                 <form className='Login-form'onSubmit={handleSubmit}>
@@ -39,7 +39,7 @@ export const Login = (props) => {
                 
             </div>
         </div>
-        </div>
+        
         
     );
 }

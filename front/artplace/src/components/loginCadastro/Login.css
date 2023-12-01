@@ -1,9 +1,14 @@
-.page{
-    border: none;
-    position:absolute;
-    height: 100%;
-    width: 100%;
+*{
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+.page2{
     background-color: #AE4F4D;
+    position: absolute;
+    width: 100%;
+    height: 100%;
 }
 
 .Login-Form-Container{
