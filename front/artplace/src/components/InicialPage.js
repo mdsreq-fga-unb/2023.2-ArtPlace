@@ -24,12 +24,9 @@ function InitialPage(){
       const result = geraProd(produtos);
 
     return(
-      <div className="BackGround">
-        <div>
+        <div className="BackGround">
           <Products result={result}/>
         </div>
-      </div>
-        
     )
 }
 
