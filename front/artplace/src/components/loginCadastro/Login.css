@@ -1,5 +1,3 @@
-
-
 .page2{
     background-color: #AE4F4D;
     position: absolute;
@@ -9,10 +7,10 @@
 
 .Login-Form-Container{
     position: absolute;
-    width: 578px;
-    height: 423px;
-    left: 80px;
-    top: 301px;
+    width: 30vw;
+    height: 22vw;
+    left: 5%;
+    top: 30%;
     background: #749857;    
     border-radius: 45px;
 
@@ -22,11 +20,8 @@
     position: relative;
     border: none;
     background: transparent;
-    top: 80px;
-    left: 150px;
+    top: 5vw;
     font-size: 15px;
-    height: 30px;
-    width: 270px;
 }
 
 .botao-cadastro:hover{
@@ -46,19 +41,19 @@
 .inputlogin{
     display: flex;
     position: relative;
-    top: 70px;
+    top: 7vh;
     align-items: center;
     margin: auto;
-    width: 402.81px;
-    height: 53.63px;
+    width: 20vw;
+    height: 3vw;
     background: #F2E8CF;
     border-radius: 45px;
 }
 
 .inputlogin input{
     position: relative;
-    width: 400px;
-    height: 50px;
+    width: 20vw;
+    height: 3vw;
     background: transparent;
     border:none;
     outline: none;
@@ -71,10 +66,10 @@
     font-size: 30px;
     color: #FFFFFF;
     position: absolute;
-    top:310px;
-    left: 100px;
-    width: 369.44px;
-    height: 52.44px;
+    top:17vw;
+    left: 5vw;
+    width: 20vw;
+    height: 6vh;
     background: #AEC867;
     border-radius: 45px;
 
@@ -87,10 +82,10 @@
     font-size: 30px;
     color: #FFFFFF;
     position: absolute;
-    top:500px;
-    left: 100px;
-    width: 369.44px;
-    height: 52.44px;
+    top: 50vh;
+    left: 5vw;
+    width: 20vw;
+    height: 6vh;
     background: #AEC867;
     border-radius: 45px;
 }
@@ -105,6 +100,6 @@
     justify-content: center;
     display: flex;
     margin: auto;
-    margin-top: 40px;
-    margin-left: 800px;
+    margin-top: 5vh;
+    margin-left: 50vw;
   }

@@ -2,17 +2,16 @@
 .card-container {
     display: flex;
     flex-wrap: wrap;
-    margin-left: 200px;
-    margin-top: 300px;
-    gap: 30px;
+    margin-left: 10vw;
+    margin-top: 30vh;
+    gap: 2vw;
     border-radius: 45px;
   }
   
   .card {
-    width: 300px;
-    height: 275px;
-    left: 28px;
-    top: 282px;
+    width: 17vw;
+    height: 30vh;
+
     background: #749857;
     border-radius: 45px;
 
@@ -29,10 +28,10 @@
 
 .retangulo{
   position: relative;
-  width: 200px;
-  height: 47px;
-  left: 100px;
-  top: -150px;
+  width: 11.6vw;
+  height: 5vh;
+  left: 5.4vw;
+  top: -15.49vh;
   border-top-right-radius: 45px;
   background: #AE4F4D;
   z-index: 0;
