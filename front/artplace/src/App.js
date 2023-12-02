@@ -1,20 +1,9 @@
-import Avaliacao from "./components/avaliação/Avaliacao";
+import React from "react";
+import Header from "./components/Header/Header"
 
-function App() {
-  function abrirAvaliação(e){
-    e.preventDefault();
+  function App() {
 
-    let modal = document.querySelector(".avaliacao");
-    modal.style.display = "block";
-  }
-
-  return (
-    <div className="App">
-      <button onClick={(e) => abrirAvaliação(e)}>oi</button>
-      <Avaliacao/>
-    </div>
-    
-  );
+  return <Header />;
 }
 
 export default App;
