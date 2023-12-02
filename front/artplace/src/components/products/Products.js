@@ -6,9 +6,7 @@ import Card from "../Card";
 const Products = ({ result }) => {
   return (
     <>
-        <h1>eai meu fi</h1>
-        <section className="card-container">{result}</section>
-      
+      <section className="card-container">{result}</section> 
     </>
   );
 };

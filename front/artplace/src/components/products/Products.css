@@ -41,9 +41,43 @@
 
 
   .title{
-    color: antiquewhite;
+    position: relative;
+    text-align: center;
+    color: #F0E8D2;
+    top: -19vh;
+    left: 3vw;
+    font-size: 20px;
+  }
+
+  .material{
+    display: flex;
+    position: relative;
+    text-align: center;
+    color: #F0E8D2;
+    top: -15vh;
+    left: 7.2vw;
+    font-size: 12px;
+  }
+
+  .description{
+    display: flex;
+    position: relative;
+    text-align: center;
+    color: #F0E8D2;
+    top: -10vh;
+    left: 0vw;
+    font-size: 15px;
   }
   
+
+  .price{
+    position: relative;
+    text-align: center;
+    color: #F0E8D2;
+    top: -7vh;
+    left: 5vw;
+    font-size: 18px;
+  }
   
 
   
