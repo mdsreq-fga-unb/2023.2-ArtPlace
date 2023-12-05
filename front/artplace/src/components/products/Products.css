@@ -1,0 +1,84 @@
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 10vw;
+    margin-top: 30vh;
+    gap: 2vw;
+    border-radius: 45px;
+  }
+  
+  .card {
+    width: 17vw;
+    height: 30vh;
+
+    background: #749857;
+    border-radius: 45px;
+
+  }
+
+  .imagem{
+    position: relative;
+    width: 130px;
+    height: 130px;
+    margin-bottom: 1rem;
+    border-top-left-radius: 45px;
+    z-index: 1;
+}
+
+.retangulo{
+  position: relative;
+  width: 11.6vw;
+  height: 5vh;
+  left: 5.4vw;
+  top: -15.49vh;
+  border-top-right-radius: 45px;
+  background: #AE4F4D;
+  z-index: 0;
+}
+
+
+
+
+  .title{
+    position: relative;
+    text-align: center;
+    color: #F0E8D2;
+    top: -19vh;
+    left: 3vw;
+    font-size: 20px;
+  }
+
+  .material{
+    display: flex;
+    position: relative;
+    text-align: center;
+    color: #F0E8D2;
+    top: -15vh;
+    left: 7.2vw;
+    font-size: 12px;
+  }
+
+  .description{
+    display: flex;
+    position: relative;
+    text-align: center;
+    color: #F0E8D2;
+    top: -10vh;
+    left: 0vw;
+    font-size: 15px;
+  }
+  
+
+  .price{
+    position: relative;
+    text-align: center;
+    color: #F0E8D2;
+    top: -7vh;
+    left: 5vw;
+    font-size: 18px;
+  }
+  
+
+  
+  

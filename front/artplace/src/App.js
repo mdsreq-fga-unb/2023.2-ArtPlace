@@ -1,20 +1,33 @@
-import Avaliacao from "./components/avaliação/Avaliacao";
+
+import Header from "./components/Header/Header"
+
+import React, {useState} from "react";
+import Login from "./components/loginCadastro/Login";
+import Cadastro from "./components/loginCadastro/Cadastro";
+
+
 
 function App() {
-  function abrirAvaliação(e){
-    e.preventDefault();
+  const  [ currentForm, setCurrentForm] = useState('register');
 
-    let modal = document.querySelector(".avaliacao");
-    modal.style.display = "block";
+  const toggleForm = (formName) =>{
+    setCurrentForm(formName);
   }
 
+ 
+
   return (
-    <div className="App">
-      <button onClick={(e) => abrirAvaliação(e)}>oi</button>
-      <Avaliacao/>
+    <>
+    <div className="App"> 
+      {
+        currentForm === "register" ? <Cadastro onFormSwitch = {toggleForm}/>  : <Login onFormSwitch = {toggleForm}/>
+      }
     </div>
+    </>
+    
     
   );
+
 }
 
 export default App;
