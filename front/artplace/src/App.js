@@ -1,3 +1,6 @@
+
+import Header from "./components/Header/Header"
+
 import React, {useState} from "react";
 import Login from "./components/loginCadastro/Login";
 import Cadastro from "./components/loginCadastro/Cadastro";
@@ -24,6 +27,7 @@ function App() {
     
     
   );
+
 }
 
 export default App;
