@@ -1,0 +1,51 @@
+.avaliacao{
+    z-index: 9999;
+    display: none;
+    position: absolute;
+    text-align: center;
+    background-color: #6a994e;
+    color: #f2e8cf;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 20px;
+}
+
+.centerAvaliacao{
+    padding: 5%;
+}
+.avaliacaoIndividual {
+    display: flex;
+    align-items: center; 
+}
+
+.avaliacaoIndividual img{
+    margin-right: 2%;
+    margin-left: 2%;
+}
+
+.facaAvaliacao input{
+    width: 100%;
+    border: none;
+    background-color: #f2e8cf;
+    border-radius: 10px;
+    color: black;
+    font-size: 20px;
+}
+
+.facaAvaliacao button{
+    background-color: #bc4749;
+    color: #f2e8cf;
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+    width: 20%;
+    margin-top: 5%;
+}
+
+.clear {
+    clear: both;
+}
+   
+   
+
