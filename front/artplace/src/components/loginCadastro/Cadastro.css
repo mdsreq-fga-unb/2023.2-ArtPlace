@@ -78,24 +78,27 @@
   font-size: 19px;
 }
 
-.botao{
+.linkCadastro{
   position: relative;
   border: none;
   background: transparent;
-  top: 10vw;
+  top: 2vw;
   font-size: 15px;
+  cursor: pointer;
+  list-style: none;
+  color: #F2E8CF;
+  text-decoration: none;
+  margin-top:2%;
+  margin-bottom: 2%;
+  text-align: center;
 }
 
-.botao:hover{
-  color: #F0E8D2;
-  cursor: pointer;
-}
 
 h1{
   position: relative;
-  top: 3%;
+  top: 4%;
   text-align: center;
-  font-size: 32px;
+  font-size: 25px;
 }
 
 
@@ -151,6 +154,10 @@ input[type="checkbox"] {
 
 .checkbox-text {
   margin-left: 30px;
+}
+
+input[type="checkbox"]:checked + .custom-checkbox {
+  background-color: #AE4F4D /* Altere a cor quando a checkbox estiver marcada */
 }
 
 .botao-submit:hover{

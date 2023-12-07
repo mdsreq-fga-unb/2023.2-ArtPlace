@@ -49,19 +49,21 @@ export const  Cadastro = (props) => {
                     <div className='input'>
                         <input value = {password} onChange={(e) => setPass(e.target.value)} type = 'password' placeholder=' senha' />
                     </div>
-
-                    <button className='botao'><Link to="/login">Ja possui uma conta? Clique aqui para acessá-la</Link></button>
-
+                    
+                    <Link to="/login" className='linkCadastro'>Ja possui uma conta? <br/>Clique aqui para acessá-la</Link>
+                    
+                    
                     <h1>Você é artista?</h1>
 
                     <div className='switchArtista'>
-                        <label>
+                        <label className="checkbox-label">
                             <input
                             type="checkbox"
                             checked={isChecked}
                             onChange={handleCheckboxChange}
                             />
-                            {isChecked ? 'Sim' : 'Não'}
+                            <span className="custom-checkbox"></span>
+                            <span className="checkbox-text">{isChecked ? 'Sim' : 'Não'}</span>
                         </label>
                     </div>
 

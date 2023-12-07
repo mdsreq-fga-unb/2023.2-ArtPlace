@@ -8,45 +8,37 @@
     background-color: #AE4F4D;
     color: white;
   }
+
+.logo{
+  width: 20%;
+}
   
-  .logo {
-    width: 331px;
-    height: auto;
-    flex-shrink: 0;
-    left: 0;
-  }
-  
-  .search-bar {
-    padding: 5px;
-    margin: 0 600px; /* Ajuste conforme necessário */
-    border-radius: 45px;
-    height: 50px;
-    width: 458px;
-    text-align: center;
-    display: flex;
-    align-items: center;
-    color: white !important;
-    font-size: 25px;
-    background-color: #749857;
-    
-  }
-  
-  .login-btn,
-  .signup-btn,
-  .salmon-btn {
-    border-radius: 45px;
-    padding: 8px 16px;
-    margin: 0 5px; /* Ajuste conforme necessário */
-    cursor: pointer;
-    height: 52px;
-    width: 106px;
-    background-color: #aec867;
-    color: white !important;
-    font-size: 18px;
-  }
-  
-  .salmon-btn {
-    background-color: #AE4F4D;
-    color: white;
-  }
-  
+.search-bar{
+  background-color: #6a994e;
+  color: #f2e8cf;
+  border: none;
+  border-radius: 20px;
+  padding: 1%;
+  outline: none;
+  width: 25%;
+}
+
+.login-btn{
+  border: none;
+  border-radius: 20px;
+  background-color: #a7c957;
+  padding: 1%;
+  width: 7%;
+}
+
+.linkHeader{
+  text-decoration: none;
+  list-style: none;
+  color: #F2E8CF;
+  font-size: 15px;
+}
+
+.slamon-btn{
+  color: #F2E8CF;
+  cursor: pointer;
+}

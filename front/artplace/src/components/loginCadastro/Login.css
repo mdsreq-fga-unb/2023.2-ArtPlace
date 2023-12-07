@@ -16,19 +16,6 @@
 
 }
 
-.botao-cadastro{
-    position: relative;
-    border: none;
-    background: transparent;
-    top: 5vw;
-    font-size: 15px;
-}
-
-.botao-cadastro:hover{
-    color: #F0E8D2;
-    cursor: pointer;
-}
-
 .Login-form{
     display: flex;
     flex-direction: column;
@@ -102,4 +89,6 @@
     margin: auto;
     margin-top: 5vh;
     margin-left: 50vw;
+    width: 50%;
+    height: 90%;
   }
