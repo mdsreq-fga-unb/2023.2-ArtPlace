@@ -2,6 +2,7 @@ import "./InicialPage.css"
 import Products from "./products/Products"
 import Card from "./Card";
 import produtos from "../db/data";
+import Header from "./Header/Header"
 
 
 function InitialPage(){
@@ -24,9 +25,12 @@ function InitialPage(){
       const result = geraProd(produtos);
 
     return(
+      <>
+        <Header/>
         <div className="BackGround">
           <Products result={result}/>
         </div>
+      </>
     )
 }
 

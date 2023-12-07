@@ -11,16 +11,16 @@
   position: absolute;
   left: 45%;
   top: 10%;
-  font-size: 50px;
+  font-size: 25px;
   color: #F0E8D2;
 }
 
 .Form-Container{
   display: flex;
-  padding-bottom: 0px;
+  padding:0px;
   position: center;
   width: 30vw;
-  height: 50vw;
+  height: 49vw;
   left: 2%;
   top: 2%;
   position: absolute;
@@ -34,7 +34,7 @@
   background-color: #F2E8CF;
   border-radius: 50%;
   position: absolute;
-  top: 20%;
+  top: 15%;
   left: 50%;
   transform: translate(-50%, -50%);
   overflow: hidden;
@@ -98,80 +98,7 @@ h1{
   font-size: 32px;
 }
 
-.switchArtista{
-  .switch-label {
-    position: relative;
-    top: 50%;
-    margin-right: 5%;
-    margin-left: 5%;
-    justify-content: center;
-    left: 22%;
-  }
 
-  .switch {
-    position: relative;
-    display: inline-block;
-    width: 3.5vw;
-    height: 2vw;
-    top: 22%;
-    left: 22%;
-  }
-  
-  .switch input {
-    opacity: 0;
-    width: 0;
-    height: 0;
-  }
-  
-  .slider {
-    position: absolute;
-    cursor: pointer;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-color: transparent;
-    border: 2px solid #000;
-    -webkit-transition: .4s;
-    transition: .4s;
-  }
-  
-  .slider:before {
-    position: absolute;
-    content: "";
-    height: 26px;
-    width: 26px;
-    left: 2px;
-    bottom: 2px;
-    background-color: white;
-    border:  2px solid #000;
-    -webkit-transition: .4s;
-    transition: .4s;
-  }
-  
-  input:checked + .slider {
-    background-color: transparent;
-  }
-  
-  input:focus + .slider {
-    box-shadow: 0 0 1px #FFFFFF;
-  }
-  
-  input:checked + .slider:before {
-    -webkit-transform: translateX(26px);
-    -ms-transform: translateX(26px);
-    transform: translateX(26px);
-  }
-  
- 
-  .slider.round {
-    border-radius: 34px;
-  }
-  
-  .slider.round:before {
-    border-radius: 50%;
-  } 
-}
 
 .botao-submit{
   display: flex;
@@ -191,6 +118,39 @@ h1{
   background: #A7C957; 
   border-radius: 45px;
 
+}
+
+.checkbox-container {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.checkbox-label {
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 10px;
+}
+
+.custom-checkbox {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 20px;
+  width: 20px;
+  background-color: #eee;
+  border-radius: 4px;
+}
+
+input[type="checkbox"] {
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+.checkbox-text {
+  margin-left: 30px;
 }
 
 .botao-submit:hover{

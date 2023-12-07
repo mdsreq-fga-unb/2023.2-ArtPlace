@@ -2,16 +2,23 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import InitialPage from './components/InicialPage';
+import Login from "./components/loginCadastro/Login";
+
 import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
-import InitialPage from './components/InicialPage';
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <App/>,
+  },
+
+  {
+    path: "login",
+    element: <Login/>,
   },
 
   {
@@ -23,7 +30,7 @@ const router = createBrowserRouter([
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <RouterProvider router={router}/>
+  <RouterProvider router={router}/>
  
 );
 

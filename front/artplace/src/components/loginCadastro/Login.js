@@ -1,6 +1,7 @@
 import  React, { useState } from 'react';
 import "./Login.css";
 import pintor_image from '../assets/2 1.png'
+import { Link } from 'react-router-dom';
 
 
 export const Login = (props) => {
@@ -30,10 +31,7 @@ export const Login = (props) => {
                         
                         <button className='botao-cadastro'onClick={( ) => props.onFormSwitch('register')}>Ainda não possui um cadastro?</button>
 
-                        <button className = 'botao-submit-login' type='submit'> Login </button>
-                        <div className='LoginTeste'>
-                            <a href='home'>teste meufi</a>
-                        </div>
+                        <button className = 'botao-submit-login' type='submit'><Link to="home">Login</Link></button>
                         
                 </form>
                 

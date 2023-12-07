@@ -1,5 +1,6 @@
 import  React, { useState } from 'react';
 import user_icon from '../assets/Vector.png'
+import { Link } from 'react-router-dom';
 
 import "./Cadastro.css";
 
@@ -13,13 +14,18 @@ export const  Cadastro = (props) => {
         e.preventDefault();
         console.log(email);
     }
+    const [isChecked, setChecked] = useState(false);
+
+    const handleCheckboxChange = () => {
+        setChecked(!isChecked);
+    }
 
     return(
         
         <div className='page'>
             <div className='texto'>
                 <h2 content='descricao'>O que é o ArtPlace?</h2>
-                <span>Texto que fala sobre a nossa plataforma</span>
+                <span>O ArtPlace é uma solução web desenvolvida para a artesã autônoma Cristiane Gonçalves Cabeceira de Freitas, visando superar a falta de exclusividade em plataformas existentes. Este projeto oferece um espaço exclusivo para pequenos artistas e artesãos exibirem e venderem seus produtos, criando uma comunidade interativa. O diferencial está na visibilidade proporcionada aos artistas e na promoção da interação entre eles e os potenciais clientes, superando as limitações das plataformas de venda convencionais. A iniciativa visa ajudar a cliente e outros artistas a superarem desafios na divulgação e venda de seus trabalhos.</span>
             </div>
             <div className='Form-Container'>
 
@@ -44,17 +50,19 @@ export const  Cadastro = (props) => {
                         <input value = {password} onChange={(e) => setPass(e.target.value)} type = 'password' placeholder=' senha' />
                     </div>
 
-                    <button className='botao' onClick={() => props.onFormSwitch('login')}> Ja possui uma conta? Clique aqui para acessá-la</button>
+                    <button className='botao'><Link to="/login">Ja possui uma conta? Clique aqui para acessá-la</Link></button>
 
                     <h1>Você é artista?</h1>
 
                     <div className='switchArtista'>
-                        <label class="switch-label">Sim</label>
-                        <label class="switch">
-                            <input type="checkbox"/>
-                            <span class="slider round"></span>
+                        <label>
+                            <input
+                            type="checkbox"
+                            checked={isChecked}
+                            onChange={handleCheckboxChange}
+                            />
+                            {isChecked ? 'Sim' : 'Não'}
                         </label>
-                        <label class="switch-label">Não</label>
                     </div>
 
                     <button className = 'botao-submit' type='submit'> Cadastrar </button>
