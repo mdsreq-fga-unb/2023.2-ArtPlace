@@ -1,5 +1,6 @@
 import "./Avaliacao.css";
 import minhaImagem from '../../images/star.png'; 
+import { Link } from "react-router-dom";
 
 
 function Avaliacao(/*id do produto*/) {
@@ -76,6 +77,7 @@ function Avaliacao(/*id do produto*/) {
             />
 
             <button /*onClick={handleSalvarAvaliacao}*/>salvar</button>
+            <Link className="voltaHome" to="/home">Voltar</Link>
 
           </div>
         </div>

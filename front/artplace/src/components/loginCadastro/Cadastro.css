@@ -39,8 +39,8 @@
   transform: translate(-50%, -50%);
   overflow: hidden;
 
-  .image {
-    justify-content: center;
+.image {
+    justify-content: cover;
     display: flex;
     margin: auto;
     margin-top: 20%;

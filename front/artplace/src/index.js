@@ -4,6 +4,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import InitialPage from './components/InicialPage';
 import Login from "./components/loginCadastro/Login";
+import Avaliacao from "./components/avaliação/Avaliacao"
 
 import {
   createBrowserRouter,
@@ -24,6 +25,10 @@ const router = createBrowserRouter([
   {
     path: "home",
     element: <InitialPage/>,
+  },
+  {
+    path: "home/avaliacao",
+    element: <Avaliacao/>,
   },
 ]);
 

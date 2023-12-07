@@ -2,11 +2,83 @@
 .card-container {
   display: flex;
   flex-wrap: wrap;
-  margin-left: 10vw;
-  margin-top: 30vh;
-  gap: 2vw;
   border-radius: 45px;
 }
+
+.card{
+  float: left;
+  margin-right: 5%;
+  background-color: #6a994e;
+  border: none;
+  border-radius: 45px;
+  max-width: 300px;
+  margin: 10%;
+}
+
+.headCard{
+  float: left;
+  color: #F0E8D2;
+}
+
+.title{
+  background-color: #AE4F4D;
+  border-top-right-radius: 45px;
+  font-size: 20px;
+  float: left;
+  width: 56%;
+  padding: 2%;
+}
+
+.material{
+  font-size: 15px;
+  float: left;
+  margin-top: 0;
+}
+
+.imagem{
+  float: left;
+  width: 40%;
+  border-top-left-radius: 45px;
+}
+
+.bodyCard{
+  color: #F0E8D2;
+  float: left;
+  font-size: 12px;
+  padding: 4%;
+}
+
+.avaliacaoProduto{
+  text-align: center;
+  margin-bottom: 2%;
+}
+
+.avaliacaoLink {
+  background-color: #AE4F4D;
+  border: none;
+  font-size: 15px;
+  color: #F0E8D2;
+  max-width: 100px;
+  border-radius: 15px;
+  text-decoration: none;
+  padding: 1%;
+}
+
+.comprar{
+  background-color: #AE4F4D;
+  border: none;
+  border-radius: 20px;
+  color: #F0E8D2;
+  font-size: 20px;
+  padding: 5px;
+  margin: 10%;
+}
+
+.clear{
+  clear: both;
+}
+
+
 /*
   .card {
     background: #749857;
@@ -62,14 +134,6 @@
   }
 
 */
-.comprar{
-  background-color: #AE4F4D;
-  border: none;
-  border-radius: 20px;
-  color: #F0E8D2;
-  font-size: 20px;
-  padding: 5px;
-}
 
   
   
