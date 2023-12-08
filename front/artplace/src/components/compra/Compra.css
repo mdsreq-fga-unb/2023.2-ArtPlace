@@ -9,6 +9,7 @@
     border-radius: 30px;
     margin:20% 35%;
     z-index: 9999999;
+    position: absolute;
 }
 
 .compraSection button{

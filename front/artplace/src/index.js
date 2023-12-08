@@ -5,6 +5,7 @@ import reportWebVitals from './reportWebVitals';
 import InitialPage from './components/InicialPage';
 import Login from "./components/loginCadastro/Login";
 import Avaliacao from "./components/avaliação/Avaliacao"
+import Perfil from "./components/perfil/Perfil"
 
 import {
   createBrowserRouter,
@@ -29,6 +30,10 @@ const router = createBrowserRouter([
   {
     path: "home/avaliacao",
     element: <Avaliacao/>,
+  },
+  {
+    path: "home/perfil",
+    element: <Perfil/>,
   },
 ]);
 

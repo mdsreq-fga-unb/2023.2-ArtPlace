@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from '../../images/ArtPlace.png'
 import './Header.css';
-import MenuIcon from '@mui/icons-material/Menu';
+//import MenuIcon from '@mui/icons-material/Menu';
 import { Link } from 'react-router-dom';
 
 const Header = () => {
@@ -21,14 +21,8 @@ const Header = () => {
         {/* Botão de Cadastrar */}
         <button className="login-btn"><Link className='linkHeader'  to="/">Cadastro</Link></button>
 
-        {/* Botão existente (salmon-btn) */}
-        <MenuIcon className='slamon-btn'
-        sx={
-          {
-            fontSize: 40
-          }
-        }
-        />
+        <button className="login-btn"><Link className='linkHeader'  to="/home/perfil">Perfil</Link></button>
+        
       </div>
     </div>
   );
