@@ -19,3 +19,5 @@
 
 
 ## Missão 4: Preservação da Galáxia
+
+<p align="justify">&emsp;&emsp;Nesta jornada do conhecimento passamos por várias etapas e a missão 4 foi a grande etapa final , nela nos deparamos com os casos de uso , Os casos de uso desempenham um papel fundamental no desenvolvimento de software, oferecendo uma visão clara e abrangente de como o sistema deve interagir com seus usuários ou outros sistemas. Esses casos fornecem uma representação detalhada das funcionalidades do sistema sob diferentes condições, ajudando a equipe de desenvolvimento a compreender as necessidades e expectativas dos usuários finais e conseguimos testemunha isso através dos diagramas de casos de uso e da especificação que também aprendemos nesta unidade</p> 

@@ -70,7 +70,11 @@ nav:
     - Critérios de aceitação ArtPlace: missao3/CaArtPlace.md
     - Validação skywalkers: missao3/ValSkywalkers.md
     - BDD skywalkers: missao3/BddSkywalkers.md
+  - Missão 4: 
+    - Casos de uso: missao4\CasosDeUso.md
+    - Verificação e validação: missao4\verivalGunther.md
   - Lições aprendidas: licoes.md
+
 
 
 markdown_extensions:
