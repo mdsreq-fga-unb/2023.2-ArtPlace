@@ -1,5 +1,49 @@
+.perfil{
+    background-color: #F2E8CF;
+}
 
+.headPerfil{
+    margin:5%;
+    color: #F2E8CF;
+}
 
+.imagemPerfil{
+    min-height: 200px;
+    max-height: 300px;
+    min-width: 200px;
+    max-width: 300px;
+    background-color: gray;
+    border-radius: 30px;
+    text-align: center;
+    color: antiquewhite;
+    width: 35%;
+    float: left;
+}
+
+.headPerfil p{
+    margin: 1%;
+    width: 40%;
+    float: left;
+    color: black;
+}
+
+.headPerfil button{
+    float: right;
+    width: 25%;
+    border: none;
+    background-color: #A7C957;
+    border-radius: 20px;
+    font-size: 20px;
+    color: #F2E8CF;
+    margin-bottom: 1%;
+    cursor: pointer;
+}
+
+.linkParaAHome{
+    text-decoration: none;
+    color: #F2E8CF;
+    font-size: 20px;
+}
 
 .clear{
     clear: both;
