@@ -5,8 +5,15 @@ import Header from "../Header/Header";
 import Products from "../products/Products";
 import Card from "../Card";
 import produtos from "../../db/data";
+import CadastroProduto from "../cadastroProduto/CadastroProduto";
 
 function Perfil(){
+  function abrirCadastroProduto(e){
+    e.preventDefault();
+    let modal = document.querySelector(".cadastroProduto");
+    modal.style.display = "flex";
+}
+
     function geraProd(produtos){
         let produtosFiltrados = produtos;
         return produtosFiltrados.map(
@@ -32,7 +39,8 @@ function Perfil(){
                 <p>telefone</p>
                 <p>e-mail</p>
                 
-                <button>Cadastrar Produto</button>
+                <button onClick={(e) => abrirCadastroProduto(e)}>Cadastrar Produto</button>
+                <CadastroProduto/>
                 <button><Link className="linkParaAHome" to="/home">Voltar pra home</Link></button>
 
                 <div className="clear"></div>

@@ -1,0 +1,36 @@
+.cadastroProduto{
+    background-color: #A7C957;
+    padding: 2%;
+    color: #F2E8CF;
+    text-align: center;
+    border-radius: 30px;
+    min-width: 500px;
+    position: absolute;
+    z-index: 99999999;
+    display: none;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    flex-direction: column;
+    margin: auto;
+}
+
+.cadastroProduto input{
+    width: 80%;
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    padding: 1%;
+    margin: 1%;
+}
+
+.cadastroProduto button{
+    border: none;
+    border-radius: 10px;
+    background-color: #bc4749;
+    width: 45%;
+    color: #F2E8CF;
+    padding: 1%;
+    cursor: pointer;
+    margin: auto;
+}

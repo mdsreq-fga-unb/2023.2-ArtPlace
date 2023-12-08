@@ -5,6 +5,7 @@ import Compra from "./compra/Compra";
 function Card({img, nome, material, descricao, preco}){
 
     function abrirContato(e){
+        e.preventDefault();
         let modal = document.querySelector(".compraSection");
         modal.style.display = "block";
     }
