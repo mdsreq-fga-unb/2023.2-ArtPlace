@@ -1,11 +1,18 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import Compra from "./compra/Compra";
 
 function Card({img, nome, material, descricao, preco}){
+
+    function abrirContato(e){
+        let modal = document.querySelector(".compraSection");
+        modal.style.display = "block";
+    }
 
     return(
     <>
     <div className="fundoInit">
+    <Compra/>
         <section className="card">
             <div className="headCard">
                 <img src={img} alt="fotomeufi" className="imagem"/>
@@ -22,8 +29,8 @@ function Card({img, nome, material, descricao, preco}){
                 <Link to="avaliacao" className="avaliacaoLink">Avaliação</Link>
             </div>
         </section>
-        <button className="comprar">Comprar</button>
-        
+        <button onClick={(e) => abrirContato(e)} className="comprar">Comprar</button>
+     
     </div>
    
      </>
