@@ -11,7 +11,7 @@ app.use(cors());
 const port = process.env.PORT || 3001;
 
 app.get("/", (req, res) => {
-  return res.json(`${url_env}`);
+  return res.json(`Api funcionando normalmente!`);
 });
 
 // ### ROTAS PARA CLIENTES
