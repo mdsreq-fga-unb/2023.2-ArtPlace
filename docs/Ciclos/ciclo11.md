@@ -6,13 +6,13 @@
 
 
 ## Planning
-![Image title](../assets/sprints/legenda2.jpg)
+![Image title](../assets/planning.jpeg)
 
 ## Retrospectiva
 
-![Image title](../assets/sprints/retrospective.jpeg)
+![Image title](../assets/restrospective.jpeg)
 
 
 ## Review
 
-![Image title](../assets/sprints/review11.jpeg)
+![Image title](../assets/review11.jpeg)
