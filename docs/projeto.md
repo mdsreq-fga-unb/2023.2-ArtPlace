@@ -37,9 +37,9 @@
 
 | Descrição                                   | Área/Envolvidos              | Periodicidade | Resultados Gerados                                        |
 |---------------------------------------------|------------------------------|---------------|--------------------------------------------------------|
-| Planejamento das atividades a serem desenvolvidas | Equipe do Projeto       | Semanal       | - Ata de reunião, Relato por parte de cada membro sobre o andamento individual ao longo da semana |
+| Planejamento das atividades a serem desenvolvidas | Equipe do Projeto       | Semanal       | - Ata de reunião|
 | Retrospectiva da sprint                        | Equipe do Projeto       | Semanal       | - Relatório da sprint passada levando em conta as melhorias e problemas encontrados para as próximas sprints |
-| Acompanhamento de tarefas                     | Equipe do Projeto       | Diária        | - Relatório do desenvolvimento das atividades                 |
+| Acompanhamento de tarefas                     | Equipe do Projeto       | Diária        | - Feedback sobre o desenvolvimento das atividades           |
 | Reunião com o cliente                        | Equipe do Projeto, Cliente | Semanal       | -  Relatório considerando a validação de funcionalidades desenvolvidas e obtenção do feedback |
 | Acompanhamento da situação do projeto         | Equipe do Projeto       |     Pontos de controle          | - Feedback da situação do projeto
 
