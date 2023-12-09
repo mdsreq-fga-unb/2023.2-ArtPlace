@@ -9,3 +9,4 @@ Comando para rodar local:
 4- vercel env pull .env.development.local
 5- (Renomeie o arquivo para .env apenas)
 5- npm start (rodar o projeto de fato)
+ok
