@@ -1,6 +1,6 @@
 # Validação e verificação Skywalkers
 
-<p align="justify">&emsp;&emsp;Neste artefato encontraremos os Checklist realizados pelos membros da facção Berserk Durante a missão43, com objetivo de verificar e validar os determinados elementos analisados</p> 
+<p align="justify">&emsp;&emsp;Neste artefato encontraremos os Checklist realizados pelos membros da facção Berserk Durante a missão 4, com objetivo de verificar e validar os determinados elementos analisados</p> 
 
 ## Validação e verificação do diagram de casos de uso
 
