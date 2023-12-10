@@ -45,3 +45,20 @@ export const realizarLogin = async (req, res) => {
     return res.status(500).json({ error: 'Erro ao realizar login.' });
   }
 };
+
+export const editarUsuario = async (req, res) => {
+  try {
+    const { id, nome, email, telefone, isArtist } = req.body;
+
+    const result = await sql`
+      UPDATE usuario
+      SET nome = ${nome}, email = ${email}, telefone = ${telefone}, isArtist = ${isArtist}
+      WHERE id = ${id};
+    `;
+
+    return res.status(200).json({ message: 'Usuário atualizado com sucesso!', result });
+  } catch (error) {
+    console.error(error);
+    return res.status(500).json({ error: 'Erro ao editar usuário.' });
+  }
+};
