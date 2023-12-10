@@ -5,14 +5,15 @@ import {
   cadastrarUsuario,
   realizarLogin,
   salvarImagem,
-  buscarImagem
+  buscarImagem,
+  editarUsuario
 } from "../controllers/usuarioController.js";
 
 const router = express.Router();
 
 router.post("/usuarios/cadastrar", cadastrarUsuario);
-
 router.post("/usuarios/login", realizarLogin);
+router.put("/usuarios/editar", editarUsuario);
 
 //Teste de funções para trabalhar com imagens 
 const storage = multer.memoryStorage();
