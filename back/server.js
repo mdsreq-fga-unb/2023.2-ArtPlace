@@ -2,14 +2,17 @@ import express from "express";
 import cors from "cors";
 import { sql } from '@vercel/postgres';
 import dotenv from 'dotenv';
-import artistaRouter from './routes/artistaRoutes.js';
+
+import usuarioRouter from './routes/usuarioRoutes.js';
+import produtoRouter from './routes/produtoRoutes.js';
 
 const config = dotenv.config()
 const app = express();
 app.use(express.json());  // poder recebr requisições json sem erros 
 app.use(cors());   // Permite que a API sejá consumida de origens diferentes
 
-app.use('/api', artistaRouter);
+app.use('/api', usuarioRouter);
+app.use('/api', produtoRouter);
 
 app.get("/", (req, res) => {
   return res.json(`Api funcionando normalmente!`);
@@ -18,45 +21,6 @@ app.get("/", (req, res) => {
 const port = process.env.PORT || 3001;
 app.listen(port, () => console.log(`listening on ${port}`));
 
-// ### ROTAS PARA CLIENTES
-const users = [];
-
-
-
-
-// ### ROTAS PARA ARTISTAS
-// const artistas = [];
-
-// app.get("/artistas", (req, res) => {
-//   return res.json(artistas);
-// });
-
-// app.post("/artistas", (req, res) => {
-//   const { name, email, telefone } = req.body;
-
-//   const newartistas = {
-//     id: Math.random().toString(36),
-//     name,
-//     email,
-//     telefone,
-//   };
-
-//   artistas.push(newartistas);
-//   return res.json(newartistas);
-// });
-
-// app.delete("/artistas/:id", (req, res) => {
-//   const { id } = req.params;
-
-//   const index = artistas.findIndex((user) => user.id === id);
-
-//   if (index < 0) {
-//     return res.status(404).json({ error });
-//   }
-
-//   artistas.splice(index, 1);
-//   return res.status(204).json();
-// });
 
 // // ### ROTAS PARA PRODUTOS
 // const produtos = [];

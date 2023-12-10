@@ -1,43 +1,45 @@
 import { sql } from '@vercel/postgres';
-
-const bcrypt = require('bcrypt');
+import bcrypt from 'bcrypt';
 
 export const cadastrarUsuario = async (req, res) => {
   try {
     const { nome, email, senha, telefone, isArtist } = req.body;
     const hashedSenha = await bcrypt.hash(senha, 10);
-
     const result = await sql`
-      INSERT INTO usuarios (nome, email, senha, telefone)
-      VALUES (${nome}, ${email}, ${hashedSenha}, ${telefone}, ${isArtist});
+      INSERT INTO usuario (nome, email, senha, telefone, isArtist)
+      VALUES (${nome}, ${email}, ${hashedSenha}, ${telefone}, ${isArtist});  
     `;
 
     return res.status(200).json({ message: 'Usuário cadastrado com sucesso!', result });
   } catch (error) {
     console.error(error);
-    return res.status(500).json({ error: 'Erro ao cadastrar usuário.' });
+    return res.status(500).json({ error });
   }
 };
 
 export const realizarLogin = async (req, res) => {
   try {
     const { email, senha } = req.body;
+    console.log([email,senha])
 
     const usuario = await sql`
-      SELECT * FROM usuarios WHERE email = ${email};
+      SELECT * FROM usuario WHERE email = ${email};
     `;
 
     if (!usuario || usuario.length === 0) {
       return res.status(401).json({ error: 'Usuário não encontrado.' });
     }
+    console.log(usuario)
 
-    const senhaCorreta = await bcrypt.compare(senha, usuario[0].senha);
+
+    const usuarioData = usuario.rows[0]
+    const senhaCorreta = await bcrypt.compare(senha, usuarioData.senha);
 
     if (!senhaCorreta) {
       return res.status(401).json({ error: 'Senha incorreta.' });
     }
 
-    return res.status(200).json({ message: 'Login realizado com sucesso!', usuario: usuario[0] });
+    return res.status(200).json({ message: 'Login realizado com sucesso!', usuario: usuarioData });
   } catch (error) {
     console.error(error);
     return res.status(500).json({ error: 'Erro ao realizar login.' });
