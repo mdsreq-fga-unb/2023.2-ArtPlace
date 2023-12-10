@@ -1,3 +1,4 @@
+import express from "express";
 import { cadastrarUsuario } from '../controllers/clienteController';
 import { realizarLogin } from '../controllers/clienteController';
 

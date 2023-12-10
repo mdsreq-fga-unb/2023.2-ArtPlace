@@ -8,7 +8,7 @@ export const cadastrarUsuario = async (req, res) => {
     const hashedSenha = await bcrypt.hash(senha, 10);
 
     const result = await sql`
-      INSERT INTO usuarios (nome, email, senha, telefone)
+      INSERT INTO usuarios (Nome, Email, Senha, Telefone, Isartits)
       VALUES (${nome}, ${email}, ${hashedSenha}, ${telefone}, ${isArtist});
     `;
 
