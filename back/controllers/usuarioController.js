@@ -45,3 +45,38 @@ export const realizarLogin = async (req, res) => {
     return res.status(500).json({ error: 'Erro ao realizar login.' });
   }
 };
+
+
+// Funções teste para trabalhar com imagens pfv, avisar o Renann 
+// se for deletar
+export const salvarImagem = async (req, res) => {
+  try {
+    const imagem = req.file.buffer;
+    
+    const result = await sql`
+      INSERT INTO t3 (image_data)
+      VALUES (${imagem});  
+    `;
+
+    return res.status(200).json({ message: 'Usuário cadastrado com sucesso!', result });
+  } catch (error) {
+    console.error(error);
+    return res.status(500).json({ error });
+  }
+};
+
+export const buscarImagem = async (req, res) => {
+  try {
+    const result = await sql`
+      SELECT image_data
+      FROM t3
+      WHERE id = 1;  
+    `;
+    const resultRow = result.rows[0]
+
+    return res.status(200).json({ message: 'Usuário cadastrado com sucesso!', result: resultRow });
+  } catch (error) {
+    console.error(error);
+    return res.status(500).json({ error });
+  }
+};
