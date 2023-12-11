@@ -6,7 +6,7 @@
 
 ### Eu, como usuário, quero ter acesso ao catálogo de produtos disponíveis no site, para que eu possa encontrar rapidamente os produtos que se encaixam nos meus interesses.
 
-![Image tit](../assets/dorDod.jpg)
+![Image tit](../assets/telainicial.jpeg)
 
 | Critérios de aceitação | Check list|
 | --- | --- | 
@@ -17,7 +17,7 @@
 
 ### Eu, como artista, quero me logar na plataforma, para ter a minha vitrine
 
-![Image title](../assets/dorDod.jpg)
+![Image title](../assets/telaLoginFinal.jpeg)
 
 
 | Critérios de aceitação | Check list|
@@ -29,7 +29,7 @@
 
 ### Eu, como usuário, quero me cadastrar na plataforma como comprador, para ter acesso aos produtos que estão disponíveis para venda
 
-![Image title](../assets/dorDod.jpg)
+![Image title](../assets/telaLogin.jpeg)
 
 
 | Critérios de aceitação | Check list|
@@ -41,7 +41,7 @@
 
 ### Eu, como artista quero me cadastrar na plataforma como expositor, para poder divulgar meus produtos no site.
 
-![Image title](../assets/dorDod.jpg)
+![Image title](../assets/telaLogin.jpeg)
 
 
 | Critérios de aceitação | Check list|
@@ -52,7 +52,7 @@
 
 ### Eu, como artista, gostaria de cadastrar meus produtos, para que eu possa deixá-los ofertados.
 
-![Image title](../assets/dorDod.jpg)
+![Image title](../assets/cadastroProd.jpeg)
 
 
 | Critérios de aceitação | Check list|
@@ -63,7 +63,7 @@
 
 ### Eu, como usuário, quero alterar minhas informações do meu perfil,para que eu tenha um perfil atualizado
 
-![Image title](../assets/dorDod.jpg)
+![Image title](../assets/perfil.jpeg)
 
 
 | Critérios de aceitação | Check list|
@@ -75,7 +75,7 @@
 
 ### Eu, como usuário, gostaria de ter acesso às avaliações dos produtos, para me ajudar a decidir sobre a compra.
 
-![Image title](../assets/dorDod.jpg)
+![Image title](../assets/avaliacao.jpeg)
 
 
 | Critérios de aceitação | Check list|
@@ -86,7 +86,7 @@
 
 ### Eu, como usuário, gostaria de publicar avaliações sobre os produtos que comprei, para que eu possa ajudar novos usuários a decidir sobre sua compra.
 
-![Image title](../assets/dorDod.jpg)
+![Image title](../assets/avaliacao.jpeg)
 
 
 | Critérios de aceitação | Check list|

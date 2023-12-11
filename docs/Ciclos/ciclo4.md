@@ -23,7 +23,7 @@
 
 ![Image title](../assets/sprints/sprint4a.jpg)
 
-Definimos os requisitos do nosso sistema
+- Definimos os requisitos do nosso sistema
 
 ## RAD
 
@@ -35,7 +35,7 @@ Entregas:
 
 <center>
 
-Documento dos requisitos preliminares:
+Documento dos requisitos preliminares   :
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
