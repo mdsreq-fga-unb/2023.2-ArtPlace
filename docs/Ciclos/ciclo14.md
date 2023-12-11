@@ -7,17 +7,17 @@
 
 
 ## Planning
-![Image title](../assets/planning13.jpeg)
+![Image title](../assets/planning14.jpeg)
 
 ## Retrospectiva
 
-![Image title](../assets/retrospective13.jpeg)
+![Image title](../assets/retrospective14.jpeg)
 
 - Entregas da missão 4 
 
 ## Review
 
-![Image title](../assets/review13.jpeg)
+![Image title](../assets/review14.jpeg)
 
 
 
