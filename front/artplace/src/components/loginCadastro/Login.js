@@ -2,9 +2,9 @@ import  React, { useState } from 'react';
 import "./Login.css";
 import pintor_image from '../assets/2 1.png'
 import { Link } from 'react-router-dom';
-import usuarios from '../../db/usuario'
 import { useNavigate } from 'react-router-dom';
 
+import {login_user} from '../../db/api_usuario'
 
 export const Login = () => {
     const [email, setEmail] = useState('');
@@ -13,19 +13,22 @@ export const Login = () => {
 
     const navigate = useNavigate();
 
-    const handleLogin = (e) => {
+    const handleLogin = async (e) => {
         e.preventDefault();
-        const usuarioEncontrado = usuarios.find(
-        (user) => user.email === email && user.senha.toString() === senha
-        );
-
-        if (usuarioEncontrado) {
-            console.log('Login bem-sucedido! Artista:', usuarioEncontrado.artista);
-            navigate('/home', { state: { isArtista: usuarioEncontrado.artista } });
-            console.log('Login bem-sucedido!');
-        } else {
-            setErro('Email ou senha incorretos');
+        const playload = {
+            email: email,
+            senha: senha
         }
+        await login_user(JSON.stringify(playload)).then(
+            (res)=>{
+                if (res != null){
+                    setErro('')
+                    navigate('/home', { state: { isArtista: res.isartist } });
+                }else {
+                    setErro('Verifique a senha ou email')
+                }
+            }
+        )
     };
 
     return(
