@@ -19,6 +19,10 @@
 
 ![Image title](../assets/sprints/sprint5a.jpg)
 
+## RAD
+
+<p align="justify">&emsp;&emsp;User design ciclo 1: elaboração do protótipo de baixa fidelidade.</p>
+
 Entregas:
 
 - Feedback da cliente
@@ -37,3 +41,4 @@ Feedback
 ![Image title](..//prototipo/feedback.jpeg)
 Perfil
 ![Image title](..//prototipo/perfil.jpeg)
+

@@ -15,3 +15,6 @@
 ## Review
 
 ![Image title](../assets/sprints/sprint1a.jpg)
+
+## RAD
+<p align="justify">&emsp;&emsp;Nessa primeira sprint foi estudado como funciona o Rappid development application, e se iniciaram as pesquisas para definir os requisitos inicialmente para a fase de requirements planning.</p>

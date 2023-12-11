@@ -1,4 +1,4 @@
-# Ciclo 11
+# Ciclo 12
 
 ## Data de início e fim do ciclo
 
@@ -16,3 +16,7 @@
 ## Review
 
 ![Image title](../assets/review12.jpeg)
+
+## RAD
+
+<p align="justify">&emsp;&emsp;Construction: Desenvolvimento das user stories do MVP.</p>

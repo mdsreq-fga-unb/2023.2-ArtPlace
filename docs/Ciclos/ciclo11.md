@@ -16,3 +16,7 @@
 ## Review
 
 ![Image title](../assets/review11.jpeg)
+
+## RAD
+
+<p align="justify">&emsp;&emsp;Fase de construction, validação das user stories e alocação de pessoas para o desenvolvimento.</p>

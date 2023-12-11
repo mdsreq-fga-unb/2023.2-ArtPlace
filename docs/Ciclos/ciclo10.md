@@ -16,3 +16,8 @@
 ## Review
 
 ![Image title](../assets/sprints/review_sprint10.png)
+
+
+## RAD
+
+<p align="justify">&emsp;&emsp;Preparação para a fase de construction, implementação do MVP.</p>

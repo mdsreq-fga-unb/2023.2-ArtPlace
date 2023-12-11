@@ -32,3 +32,6 @@ Entregas:
 - Documentação da abordagem 
 - Entregas da missão 1
 
+## RAD
+
+<p align="justify">&emsp;&emsp;Início do Requirements planning, utilização de brainstorm, análise de problema, análise de concorrentes e entrevistas, para uma elicitação de requisitos.</p>

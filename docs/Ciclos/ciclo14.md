@@ -1,8 +1,9 @@
-# Ciclo 13
+# Ciclo 14
 
 ## Data de início e fim do ciclo
 
-*03/12/23* - *09/12/23*
+*10/12/23* - *15/12/23*
+
 
 
 ## Planning
@@ -18,6 +19,7 @@
 ![Image title](../assets/review13.jpeg)
 
 
+
 ## RAD
 
-<p align="justify">&emsp;&emsp;Construction: Finalização do desenvolvimento e implementação completa das user stories com base nos critérios de aceitação definidos.</p>
+<p align="justify">&emsp;&emsp;Cutover: finalização  do desenvolvimento, deploy da aplicação.</p>

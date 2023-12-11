@@ -19,7 +19,12 @@
 
 ![Image title](../assets/sprints/review_sprin6.png)
 
+## RAD
+
+<p align="justify">&emsp;&emsp;User design ciclo 1: Documento de feedback do protótipo de baixa fidelidade.</p>
+
 Entregas:
+- Feedback do protótipo de baixa fidelidade
 - Planejamento do MVP
 - Arquivo de correção do Gunters
 - Correções da missão 1
