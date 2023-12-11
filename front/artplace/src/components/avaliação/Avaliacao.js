@@ -15,7 +15,10 @@ function Avaliacao() {
   const handleAvaliacao =  async (e) =>{
     e.preventDefault();
     const playloadAvaliacao = {
-        avaliacao: avaliacoes
+        produto_id: 1,
+        usuario_id: 1,
+        pontuacao: parseInt('10'),
+        comentario: novaAvaliacao
     }
     console.log(playloadAvaliacao);
     await add_avaliacao(JSON.stringify(playloadAvaliacao))
