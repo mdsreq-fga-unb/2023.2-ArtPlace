@@ -20,3 +20,5 @@
 ## RAD
 
 <p align="justify">&emsp;&emsp;Fase de construction, validação das user stories e alocação de pessoas para o desenvolvimento.</p>
+
+- Checklist de validação das US com o DoR.

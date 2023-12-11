@@ -12,6 +12,8 @@
 
 ![Image title](../assets/sprints/reprospective_sprint10.png)
 
+- PBB, BDD, critérios de aceitação, DoR e DoD do nosso projeto 
+- Verificação e validação das CA e US dos Skywalker
 
 ## Review
 
@@ -21,3 +23,7 @@
 ## RAD
 
 <p align="justify">&emsp;&emsp;Preparação para a fase de construction, implementação do MVP.</p>
+
+Entregas: 
+
+- Alocação das US para iniciar o MVP.

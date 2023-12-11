@@ -23,4 +23,5 @@
 <p align="justify">&emsp;&emsp;User design ciclo 2: Elaboração do protótipo de alta fidelidade.</p>
 
 Entregas: 
+
 - Protótipos refinados

@@ -19,11 +19,13 @@
 
 ![Image title](../assets/sprints/sprint3a.jpg)
 
-Entregas: 
-- Terminamos a missão 1
 
 
 ## RAD
 
 <p align="justify">&emsp;&emsp;Continuação da fase de requirements planning, desenvolvimento de um documento preliminar de requisitos a ser enviado para a cliente.</p>
+
+Entregas: 
+
+- Terminamos a missão 1
 

@@ -12,6 +12,7 @@
 
 ![Image title](../assets/retrospective13.jpeg)
 
+- Desenvolvimento da especificação dos casos de uso para a missão 4
 
 ## Review
 
@@ -21,3 +22,5 @@
 ## RAD
 
 <p align="justify">&emsp;&emsp;Construction: Finalização do desenvolvimento e implementação completa das user stories com base nos critérios de aceitação definidos.</p>
+
+- Checklist de validação do desenvolvimento completo das US com o DoD

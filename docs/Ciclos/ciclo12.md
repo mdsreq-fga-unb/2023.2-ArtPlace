@@ -12,6 +12,7 @@
 
 ![Image title](../assets/retrospective12.jpeg)
 
+- Desenvolvimento dos casos de uso para a missão 4
 
 ## Review
 
@@ -20,3 +21,4 @@
 ## RAD
 
 <p align="justify">&emsp;&emsp;Construction: Desenvolvimento das user stories do MVP.</p>
+

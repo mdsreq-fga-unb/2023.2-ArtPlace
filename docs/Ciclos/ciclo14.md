@@ -13,6 +13,7 @@
 
 ![Image title](../assets/retrospective13.jpeg)
 
+- Entregas da missão 4 
 
 ## Review
 
@@ -23,3 +24,5 @@
 ## RAD
 
 <p align="justify">&emsp;&emsp;Cutover: finalização  do desenvolvimento, deploy da aplicação.</p>
+
+- MVP desenvolvido

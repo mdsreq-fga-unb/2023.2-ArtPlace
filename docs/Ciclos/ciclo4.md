@@ -28,3 +28,7 @@ Definimos os requisitos do nosso sistema
 ## RAD
 
 <p align="justify">&emsp;&emsp;Requirements planning: envio do documento de requisitos preliminar para a cliente.</p>
+
+Entregas: 
+
+- Documento de funcionalidades preliminar
