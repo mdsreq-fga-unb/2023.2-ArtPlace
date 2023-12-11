@@ -90,7 +90,10 @@
   text-decoration: none;
   margin-top:2%;
   margin-bottom: 2%;
-  text-align: center;
+  text-align: center; 
+}
+.linkCadastro:hover {
+  text-decoration: underline;
 }
 
 
