@@ -22,9 +22,9 @@
 
 ## RAD
 
-<p align="justify">&emsp;&emsp;User design ciclo 2: Documento de validação do cliente do protótipo de alta fidelidade.</p>
+<p align="justify">&emsp;&emsp;User design ciclo 2: validação do cliente do protótipo de alta fidelidade.</p>
 
 Entregas:
 
-- Documento de validação do protótipo de alta. 
+- O protótipo de alta fidelidade foi aprovado sem ressalvas pelo cliente. 
 - [Documento do protótipo de alta fidalidade](https://www.figma.com/proto/iLiV02gQO9rTmtNbRC2Ejb/ArtPlace?type=design&node-id=4-2&t=k8IW6HRsnwb6F6H0-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=4%3A2)
