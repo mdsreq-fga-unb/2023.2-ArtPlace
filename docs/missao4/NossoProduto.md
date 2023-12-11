@@ -6,7 +6,7 @@
 
 ### Eu, como usuário, quero ter acesso ao catálogo de produtos disponíveis no site, para que eu possa encontrar rapidamente os produtos que se encaixam nos meus interesses.
 
-![Image title](../assets/dorDod.jpg)
+![Image tit](../assets/dorDod.jpg)
 
 | Critérios de aceitação | Check list|
 | --- | --- | 
