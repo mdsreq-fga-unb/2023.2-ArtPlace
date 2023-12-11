@@ -24,8 +24,8 @@ export const exibirAvaliacoesProduto = async (req, res) => {
         SELECT * FROM avaliacao
         WHERE produto_id = ${produto_id};
       `;
-  
-      return res.status(200).json({ avaliacoes });
+      const avalicaoData = avaliacoes.rows[0]
+      return res.status(200).json({ avalicaoData });
     } catch (error) {
       console.error(error);
       return res.status(500).json({ error: 'Erro ao recuperar avaliações do produto.' });

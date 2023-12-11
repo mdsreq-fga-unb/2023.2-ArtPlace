@@ -1,7 +1,8 @@
 import  React, { useState } from 'react';
 import user_icon from '../assets/Vector.png'
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 
+import {add_user} from '../../db/api_usuario'
 import "./Cadastro.css";
 
 export const  Cadastro = (props) => {
@@ -10,9 +11,21 @@ export const  Cadastro = (props) => {
     const [number, setNumber] = useState('');
     const [password, setPass] = useState('');
 
-    const handleSubmit = (e) => {
+    const navigate = useNavigate()
+    const handleSubmit = async (e) => {
         e.preventDefault();
-        console.log(email);
+        const playload = {
+          nome: name,
+          email: email,
+          senha: password,
+          telefone: number,
+          isArtist: isChecked
+        }
+        await add_user(JSON.stringify(playload))
+        .then((res)=> {
+            console.log(res)
+            navigate('/home')
+        })
     }
     const [isChecked, setChecked] = useState(false);
 
