@@ -5,6 +5,7 @@ import dotenv from 'dotenv';
 
 import usuarioRouter from './routes/usuarioRoutes.js';
 import produtoRouter from './routes/produtoRoutes.js';
+import avaliacaoRouter from './routes/avaliacaoRoutes.js';
 
 const config = dotenv.config()
 const app = express();
@@ -13,6 +14,7 @@ app.use(cors());   // Permite que a API sejá consumida de origens diferentes
 
 app.use('/api', usuarioRouter);
 app.use('/api', produtoRouter);
+app.use('/api', avaliacaoRouter);
 
 app.get("/", (req, res) => {
   return res.json(`Api funcionando normalmente!`);
