@@ -12,6 +12,8 @@ function CadastroProduto(){
     const [preco, setPreco] = useState('');
 
     const navigate = useNavigate()
+    
+    const id = 1 // Receber o id do usuario
 
     const handleSubmitProduto =  async (e) =>{
         e.preventDefault();
@@ -19,7 +21,8 @@ function CadastroProduto(){
             nome:nome,
             material: material,
             descricao:descricao,
-            preco:preco
+            preco:parseFloat(preco),
+            idArtista: id //id
         }
         console.log(playloadProduto);
         await add_produto(JSON.stringify(playloadProduto))

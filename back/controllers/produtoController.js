@@ -2,11 +2,11 @@ import { sql } from "@vercel/postgres";
 
 export const cadastrarProduto = async (req, res) => {
   try {
-    const { nome, material, preco, avaliacao, idArtista } = req.body;
+    const { nome, material, preco, descricao, idArtista } = req.body;
 
     const result = await sql`
-      INSERT INTO produtos (nome, material, preco, avaliacao, id_artista)
-      VALUES (${nome}, ${material}, ${preco}, ${avaliacao}, ${idArtista});
+      INSERT INTO produtos (nome, material, preco, descricao, id_artista)
+      VALUES (${nome}, ${material}, ${preco}, ${descricao}, ${idArtista});
     `;
     return res
       .status(200)
