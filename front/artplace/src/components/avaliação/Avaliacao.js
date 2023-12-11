@@ -1,54 +1,30 @@
 import "./Avaliacao.css";
 import minhaImagem from '../../images/star.png'; 
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
+import {add_avaliacao} from '../../db/api_avaliacao'
+import { useState } from "react";
 
 
-function Avaliacao(/*id do produto*/) {
-  /*
+function Avaliacao() {
+  
   const [avaliacoes, setAvaliacoes] = useState([]);
   const [novaAvaliacao, setNovaAvaliacao] = useState('');
 
-  useEffect(() => {
-    const buscarAvaliacoesDoProduto = async () => {
-      try {
-        const response = await fetch(`url da api${productId}`);
-        if (response.ok) {
-          const data = await response.json();
-          setAvaliacoes(data.avaliacoes);
-        } else {
-          throw new Error('Erro ao buscar as avaliações do produto');
-        }
-      } catch (error) {
-        console.error(error);
-      }
-    };
+  const navigate = useNavigate()
 
-    buscarAvaliacoesDoProduto();
-  }, [productId]);
-
-   const handleSalvarAvaliacao = async () => {
-    try {
-      const response = await fetch(`https://sua-api.com/avaliacoes/${productId}`, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({ texto: novaAvaliacao }),
-      });
-
-      if (response.ok) {
-        const data = await response.json();
-        setAvaliacoes([...avaliacoes, data.novaAvaliacao]);
-        setNovaAvaliacao('');
-      } else {
-        throw new Error('Erro ao salvar a avaliação');
-      }
-    } catch (error) {
-      console.error(error);
+  const handleAvaliacao =  async (e) =>{
+    e.preventDefault();
+    const playloadAvaliacao = {
+        avaliacao: avaliacoes
     }
-  };
+    console.log(playloadAvaliacao);
+    await add_avaliacao(JSON.stringify(playloadAvaliacao))
+    .then((res)=> {
+        console.log(res)
+        navigate('/home')
+    })
 
-  */
+  }
     return (
       <div className="avaliacao">
         <div  className="centerAvaliacao">
@@ -67,17 +43,19 @@ function Avaliacao(/*id do produto*/) {
           <div className="facaAvaliacao">
             <h2>Coloque aqui a sua avaliação</h2>
 
-            <input 
-              type="text"
-              name="avaliação"
-              placeholder="avaliação"
-              /*value={novaAvaliacao}
-              onChange={(e) => setNovaAvaliacao(e.target.value)}*/
-              
-            />
+            <form onSubmit={handleAvaliacao}>
+              <input 
+                type="text"
+                name="avaliação"
+                placeholder="avaliação"
+                value={novaAvaliacao}
+                onChange={(e) => setNovaAvaliacao(e.target.value)}
+                
+              />
 
-            <button /*onClick={handleSalvarAvaliacao}*/>salvar</button>
-            <Link className="voltaHome" to="/home">Voltar</Link>
+              <button type="submit">salvar</button>
+              <Link className="voltaHome" to="/home">Voltar</Link>
+            </form>
 
           </div>
         </div>
