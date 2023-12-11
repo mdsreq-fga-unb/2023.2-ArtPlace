@@ -6,7 +6,6 @@ import Products from "../products/Products";
 import Card from "../Card";
 import produtos from "../../db/data";
 import CadastroProduto from "../cadastroProduto/CadastroProduto";
-import { useLocation } from 'react-router-dom';
 
 function Perfil(){
   function abrirCadastroProduto(e){
@@ -30,14 +29,10 @@ function Perfil(){
         )
       }
 
-      const result = geraProd(produtos);
-    const location = useLocation();
+    const result = geraProd(produtos);
     
-    const isArtista = location.state && location.state.isArtista;
-    console.log(location)
     return(
         <div className="perfil">
-          {isArtista ? (
             <div>
               <Header/>
               <div className="headPerfil">
@@ -56,25 +51,6 @@ function Perfil(){
 
               <Products result={result}/>
             </div>
-          
-          ):( 
-          
-            <div>
-              <Header/>
-              <div className="headPerfil">
-                  <div className="imagemPerfil">imgaem de perfil</div>
-                  <p>telefone</p>
-                  <p>e-mail</p>
-                  
-                  <button><Link className="linkParaAHome" to="/home">Voltar pra home</Link></button>
-                  
-
-                  <div className="clear"></div>
-              </div>
-            </div>
-          
-          )}
-             
                 
              
         </div>
