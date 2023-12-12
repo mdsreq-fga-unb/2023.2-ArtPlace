@@ -48,19 +48,19 @@ export const  Cadastro = (props) => {
 
                 <form className='Register-form' onSubmit={handleSubmit}>
                     <div className='input'>
-                        <input value = {name} onChange={(e) => setName(e.target.value)} name='name' id='name' placeholder=' nome' />
+                        <input value = {name} onChange={(e) => setName(e.target.value)} name='name' id='name' placeholder=' nome' required/>
                     </div>
                
                     <div className='input'>
-                        <input value = {email} onChange={(e) => setEmail(e.target.value)} type = 'email' placeholder = ' email'/>
+                        <input value = {email} onChange={(e) => setEmail(e.target.value)} type = 'email' placeholder = ' email' required/>
                     </div>
             
                     <div className='input'>
-                        <input value = {number} onChange={(e) => setNumber(e.target.value)} name = 'number' id = 'number' placeholder=' telefone'/>
+                        <input value = {number} onChange={(e) => setNumber(e.target.value)} name = 'number' id = 'number' placeholder=' telefone' type='number' maxLength={11} minLength={9} required/>
                     </div>
                 
                     <div className='input'>
-                        <input value = {password} onChange={(e) => setPass(e.target.value)} type = 'password' placeholder=' senha' />
+                        <input value = {password} onChange={(e) => setPass(e.target.value)} type = 'password' placeholder=' senha' required />
                     </div>
                     
                     <Link to="/login" className='linkCadastro'>Ja possui uma conta? <br/>Clique aqui para acessá-la</Link>

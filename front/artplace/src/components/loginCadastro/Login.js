@@ -39,12 +39,12 @@ export const Login = () => {
                 <form className='Login-form'onSubmit={handleLogin}>
                         <div className='inputlogin'>
                             <label htmlFor='email'></label>
-                            <input value = {email} onChange={(e) => setEmail(e.target.value)} type = 'email' placeholder = 'email'/>
+                            <input value = {email} onChange={(e) => setEmail(e.target.value)} type = 'email' placeholder = 'email' required/>
                         </div>
                         
                         <div className='inputlogin'>
                             <label htmlFor='senha'></label>
-                            <input value = {senha} onChange={(e) => setSenha(e.target.value)} type = 'password' placeholder='senha' />
+                            <input value = {senha} onChange={(e) => setSenha(e.target.value)} type = 'password' placeholder='senha' required/>
                         </div>
                         
                         <Link to="/" className='linkCadastro'>Não possui cadastro</Link>
