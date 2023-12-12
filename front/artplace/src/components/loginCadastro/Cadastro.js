@@ -24,7 +24,7 @@ export const  Cadastro = (props) => {
         await add_user(JSON.stringify(playload))
         .then((res)=> {
             console.log(res)
-            navigate('/home')
+            navigate('/login')
         })
     }
     const [isChecked, setChecked] = useState(false);
