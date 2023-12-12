@@ -59,7 +59,7 @@ function CadastroProduto(){
                 />
                 <input
                     placeholder="preço"
-                    type="text"
+                    type="number"
                     value={preco}
                     onChange={(e) => setPreco(e.target.value)}
                 />
